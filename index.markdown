@@ -5,3 +5,5 @@
 layout: home
 title: Grzegorz Orzechowski
 ---
+
+<!-- Now, let check some slides: [Test slides](/test_slides) -->
