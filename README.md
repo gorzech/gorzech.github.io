@@ -7,6 +7,10 @@ The webpage is hosted on [GitHub Pages](https://pages.github.com/) using [Jekyll
 
 In this project I am using some open-source, freely available layouts. The details are provided below.
 
+### Main Layout
+
+For the main layout, I am using [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) [Jekyll](https://jekyllrb.com/) theme.
+
 ### CV layout
 
-For generating my [CV](https://gorzech.github.io) I am using [markdown-cv](https://github.com/davewhipp/markdown-cv) by [David Whipp](https://davewhipp.github.io/markdown-cv/). It is modified version of orignal [markdown-cv](https://github.com/elipapa/markdown-cv) by [Eliseo Papa](https://elipapa.github.io/mycv/extended).
+For generating my [CV](https://gorzech.github.io/cv) I am using [markdown-cv](https://github.com/davewhipp/markdown-cv) by [David Whipp](https://davewhipp.github.io/markdown-cv/). It is modified version of orignal [markdown-cv](https://github.com/elipapa/markdown-cv) by [Eliseo Papa](https://elipapa.github.io/mycv/extended).
