@@ -30,250 +30,132 @@ Yliopistonkatu 34
 `2007`
 **M.Sc. (Tech), Automation and Robotics**, *Faculty of Power and Aeronautical Engineering, Warsaw University of Technology*, Poland.
 
+## Other education and expertise
 
-<!-- ## Experience
+`2018`
+**Supervision of doctoral thesis and dissertation**, *LUT University Pedagogy*, Finland
 
-`2021-present`
-**Professor**, *Department of Geosciences and Geography, and Helsinki Institute of Sustainability Science (HELSUS), University of Helsinki*, Helsinki, Finland.
+## Language skills
 
-`2013-2023`
-**Adjunct of the Faculty of Graduate Studies**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
+Polish: *native*
 
-`2017-2020`
-**Associate professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+English: *professional proficiency*
 
-`2013-2016`
-**Assistant professor**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
+Finnish: *elementary proficiency*
 
-`2009-2012`
-**Postdoctoral fellow**, *Department of Oceanography, Dalhousie University*, Halifax, NS, Canada.
+## Current employment
 
-`2008-2009`
-**Postdoctoral fellow**, *Géosciences Rennes, University of Rennes 1*, Rennes, France.
+`2021-present` **Post-doctoral Researcher**, *Department of Mechanical Engineering*, Lappeenranta-Lahti University of Technology LUT, Finland
 
-`2007`
-**Geoscientist (intern)**, *ExxonMobil Exploration Company*, Houston, TX, USA.
+## Previous work experience 
 
-`2003-2008`
-**Research assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
+`2019-2021` **Senior Developer**, *Mevea Oy*, Lappeenranta, Finland
 
-`2001-2003`
-**Laboratory assistant**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
+`2017-2019` **Post-doctoral Researcher**, *Department of Mechanical Engineering*, Lappeenranta University of Technology, Finland
 
-`2000-2002`
-**Tech consultant and Sites rover**, *Campus Computing Sites, University of Michigan*, Ann Arbor, MI, USA.
+`2012-2017` **Assistant Professor**, *Faculty of Power and Aeronautical Engineering*, Warsaw University of Technology, Poland
+
+`2016` **Visiting Researcher**, *Department of Mechanical Engineering*, 
+Lappeenranta University of Technology, Finland (7 months)
+
+`2014` **Visiting Scholar**, *Department of Mechanical Engineering*, University of Illinois at Chicago, Chicago, Illinois, USA (6 months)
+
+`2007-2012` **Researcher**, *Faculty of Power and Aeronautical Engineering*, Warsaw University of Technology, Poland
+
+<!-- ## Research funding and grants 
+
+`2022-2024` **\textquotedblleft SANTTU -- To reduce stress from machine \& operator\textquotedblright , Business Finland project, €\,1\,006\,000, project manager, investigator.**
+
+`2021-2024` **\textquotedblleft AITOC -- Artificial Intelligence supported Tool Chain in Manufacturing Engineering\textquotedblright , ITEA 3 project no. 19027, €\,1\,080\,376, investigator.**
+
+`2019-2021` **\textquotedblleft Real-time simulator-driver design and manufacturing based on flexible systems\textquotedblright , Research project 845600 -- RealFlex, granted by European Commission under Marie Sk\l odowska-Curie Individual Fellowships, €\,202\,681, principal investigator.**
+
+`2017-2018` **\textquotedblleft Virtual Coach Based on Multibody Dynamics\textquotedblright , Decision No. 305737, granted by Academy of Finland, €\,537\,809, project manager, no role in preparation, PI Perttu Hämäläinen.**
+
+`2013-2017` **\textquotedblleft Flexible, Overconstrained Multibody Systems Modeling using Sequential and Parallel Methods\textquotedblright , Research project no. 2012/07/B/ST8/03993 granted by the Polish National Science Centre, 803\,480\,PLN (approx. €\,190\,000), contractor, co-author, PI Janusz Fr\k{a**czek.}
+
+`2015` **\textquotedblleft Modeling of Composite Structures using Flexible Multibody Absolute Nodal Coordinate Formulation\textquotedblright , Research project granted by the Dean of The Faculty of Power and Aeronautical Engineering, 20\,000\,PLN (appro6x. €\,4\,500), principal investigator.**
+
+`2013` **\textquotedblleft Modeling of Flexible Multibody Systems using Absolute Nodal Coordinate Formulation and Explicit Integration Schemes\textquotedblright , Research project granted by the Dean of The Faculty of Power and Aeronautical Engineering, 20\,000\,PLN (approx. €\,4\,500), principal investigator.**
+
+`2011-2013` **\textquotedblleft Modeling of Flexible Multibody Systems in Absolute Nodal Coordinate Formulation\textquotedblright , Doctoral research project no. N N514 673340 granted by the Polish National Science Centre, 80\,000\,PLN (approx. €\,19\,000), main author, contractor, PI Janusz Fr\k{a**czek.}
+
+## Research output
+
+**Eighteen  publications in international peer-reviewed journals.**
+
+**One referred book chapter.**
+
+**Fourteen conference publications.**
+
+**Boat dynamics simulator written in Julia -- \href{https://github.com/gorzech/BoatDynamics.jl**{github.com/gorzech/BoatDynamics.jl}}
+
+**Monte Carlo Tree Seach method implementation in Julia -- \href{https://github.com/gorzech/PureMCTS.jl**{github.com/gorzech/PureMCTS.jl}}
+
+**Environments for Monte Carlo Tree Search method -- \href{https://github.com/gorzech/Environments.jl**{github.com/gorzech/Environments.jl}}
+
+## Research supervision and leadership experience
+
+`2014-2022` **Supervision of ten bachelor's and five master's theses.**
+
+`2021-present` **Co-supervision of two doctoral theses (ongoing).**
+
+`2021-present` **Leadership in SANTTU project:**
+\begin{itemize}
+    \item Project leader of two work packages. Management and coordination of the work of five research groups at three Finnish universities (LUT, Aalto, Oulu). 
+    \item Research group leader at LUT. Instructing two post-doctoral researchers, two doctoral students, and visiting researchers (currently one). 
+\end{itemize}
+
+## Teaching merits
+
+`2017-2022` **Post-graduate and doctoral course on ``Computer methods in mechanics'', LUT University.**
+
+`2008-2017` **Lecturer and tutor on various faculty courses at Warsaw University of Technology (including automation, robotics, statistics, artificial intelligence, mechanics).**
+
+## Awards and honours
+
+`2016` **1st degree team award for scientific achievements, Rector of Warsaw University of Technology (60\% participation in the work). Award received jointly with J. Frączek and P. Malczyk.**
+
+`2014` **3rd degree individual award of the Rector of the Warsaw University of Technology for scientific achievements.**
+
+## Other key academic merits
+
+`2023` **Co-chair of the 19th International Conference on Multibody Systems, Nonlinear Dynamics, and Control (ASME IDETC-CIE).**
+
+`2022` **Member of the ASME Technical Committee on Multibody Systems and Nonlinear Dynamics.**
+
+`2022` **Preparatory Committee Member of the International Society of Mechanical System Dynamics.**
+
+`2022` **Member of the Young Scientists Editorial Board of the International Journal of Mechanical System Dynamics.**
+
+`2022` **Co-organizer of the special issue on \textquotedblleft Bid-data techniques in Multibody Dynamics\textquotedblright{**in Journal of Multibody Systems Dynamics.}
+
+`2019` **Co-organizer of the Symposium on Flexible Multibody Dynamics within the ASME International Conference on Multibody Systems, Nonlinear Dynamics, and Control.**
+
+`2009` **Co-organizer of the ECCOMAS Thematic Conference on Multibody Dynamics, Warsaw, Poland.**
+
+`2015-2023` **Reviewer for the following international journals: Nonlinear Dynamics, Journal of Sound and Vibrations, Computer Methods in Applied Mechanics and Engineering, Archive of Mechanical Engineering and Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, Multibody System Dynamics.**
+-->
+
+<!--
 
 ## Publications
 
 *Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=FvYhWOAAAAAJ). \* = student as lead author, &dagger; = shared first authorship.*
 
-### Books
-
-H. Tenkanen, V. Heikinheimo, and **D. M. Whipp**. *Introduction to Python for Geographic Data Analysis*. CRC Press (expected publication in 2023). ***In progress***, online at [https://pythongis.org/](https://pythongis.org/). -->
-
-<!--
-### Journal articles, in preparation
--->
-
-<!-- ### Journal articles -->
-
-<!-- 
-**D. M. Whipp**, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. *Journal of Geophysical Research: Earth Surface*, **In preparation**.
--->
-
-<!-- V. Peltonen, S. Kultti, N. Putkinen, V. Rinterknecht, A. Hall, and **D. M. Whipp**. Reducing uncertainty in source area exploration of mineralized glacial erratics using terrestrial cosmogenic radionuclide dating. *Journal of Geochemical Exploration*., **under review**.
-
-M. Ghadimi, A. Hooper, and **D. M. Whipp**. Deformation of the Taleqan Dam, Iran, from InSAR and Ground Observations. *Remote Sensing*, **under review**.
-
-D. Grujic, M. Bernet, I. Coutand, and **D. M. Whipp**. Fast crustal cooling caused by the end of exhumation. *Tektonika*, **in revision**.
-
-`2022`
-S. Fan, M. Murphy, **D. M. Whipp**, J. Saylor, P. Copeland, A. Hoxey, M. Taylor, and D. Stockli. Megathrust Heterogeneity, Crustal Accretion, and a Topographic Embayment in the Western Nepal Himalaya: Insights from the Inversion of Thermochronological Data. *Tectonics*, doi: [10.1029/2021TC007071](https://doi.org/10.1029/2021TC007071), 2022.
-
-**D. M. Whipp**<sup>&dagger;</sup>, D. A. Kellett<sup>&dagger;</sup>, I. Coutand, and R. A. Ketcham. Short communication: Modelling competing effects of cooling rate, grain size and radiation damage in low temperature thermochronometers. *Geochronology*, 4, 143-152, doi: [10.5194/gchron-4-143-2022](https://doi.org/10.5194/gchron-4-143-2022), 2022.
-
-`2021`
-A. E. Rintamäki, G. Hillers, T. A. T. Vuorinen, T. Luhta, J. M. Pownall, C. Tsarsitalidou, K. Galvin, J. Keskinen, J. T. Kortström, T.-C. Lin, P. B. Mäntyniemi, K. J. Oinonen, T. J. Oksanen, P. J. Seipäjärvi, G. Taylor, M. R. Uski, A. I. Voutilainen, and **D. M. Whipp**. A seismic network to monitor the 2020 EGS stimulation in the Espoo/Helsinki area, southern Finland. *Seismological Research Letters*, doi: [10.1785/0220210195](https://doi.org/10.1785/0220210195), 2021.
-
-`2020`
-J. Schütt\* and **D. M. Whipp**. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. *Tectonics*. doi: [10.1029/2019TC005886](https://doi.org/10.1029/2019TC005886), 2020.
-
-D. Grujic, K. Ashley, M. Coble, I. Coutand, D. Kellett, K. Larson, **D. M. Whipp**, M. Gao, and N. Whynot. Deformational temperatures across the Lesser Himalayan Sequence in eastern Bhutan and their implications for the deformation history of the Main Central Thrust. *Tectonics*. [10.1029/2019TC005914](https://doi.org/10.1029/2019TC005914), 2020.
-
-`2019`
-A. Koptev, T. A. Ehlers, M. Nettesheim, and **D. M. Whipp**. Response of a rheologically stratified lithosphere to subduction of an indenter-shaped plate: Insights into localized exhumation at orogen syntaxes. *Tectonics*. doi: [10.1029/2018TC005455](https://doi.org/10.1029/2018TC005455), 2019.
-
-**D. M. Whipp** and T. A. Ehlers. Quantifying landslide frequency and sediment residence time in the Nepal Himalaya. *Science Advances*, *5*(4). doi: [10.1126/sciadv.aav3482](https://dx.doi.org/10.1126/sciadv.aav3482), 2019.
-
-`2018`
-M. Nettesheim\*, T. A. Ehlers, **D. M. Whipp**, and A. Koptev. The influence of upper-plate advance and erosion on overriding
-plate deformation in orogen syntaxes. *Solid Earth*, 9, 1207-1224. doi: [10.5194/se-9-1207-2018](https://doi.org/10.5194/se-9-1207-2018), 2018.
-
-`2016`
-K. R. Landry\*, I. Coutand, **D. M. Whipp**, D Grujic, and J. K. Hourigan. Late Neogene tectonically driven crustal exhumation of the Sikkim Himalaya: Insights from inversion of multithermochronologic data. *Tectonics*, *35*(3):833–859. doi: [10.1002/2015TC004102](https://dx.doi.org/10.1002/2015TC004102), 2016.
-
-`2014`
-**D. M. Whipp**, C. Beaumont, and J. Braun. Feeding the 'aneurysm': Orogen-parallel mass transport into Nanga Parbat and the western Himalayan syntaxis. *Journal of Geophysical Research: Solid Earth*, *119*(6):5077–5096. doi: [10.1002/2013JB010929](https://dx.doi.org/10.1002/2013JB010929), 2014.
-
-M. A. Murphy, M. H. Taylor, J. Gosse, C. R. P. Silver, **D. M. Whipp**, and C. Beaumont. Limit of strain partitioning in the Himalaya marked by large earthquakes in western Nepal. *Nature Geoscience*, *7*(1):38–42. doi: [10.1038/ngeo2017](https://dx.doi.org/10.1038/ngeo2017), 2014.
-
-I. Coutand, **D. M. Whipp**, D. Grujic, M. Bernet, M. G. Fellin, B. Bookhagen, K. R. Landry, S. K. Ghalley, and C. Duncan. Geometry and kinematics of the Main Himalayan Thrust and Neogene crustal exhumation in the Bhutanese Himalaya derived from inversion of multithermochronologic data. *Journal of Geophysical Research: Solid Earth*, *119*(2):1446–1481. doi: [10.1002/2013JB010891](https://dx.doi.org/10.1002/2013JB010891), 2014.
-
-`2009`
-**D. M. Whipp**, T. A. Ehlers, J. Braun, and C. D. Spath. Effects of exhumation kinematics and topographic evolution on detrital thermochronometer data. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2008JF001195](https://dx.doi.org/10.1029/2008JF001195), 2009.
-
-T. F. Schildgen, T. A. Ehlers, **D. M. Whipp**, M. C. van Soest, K. X. Whipple, and K. V. Hodges. Quantifying canyon incision and Andean Plateau surface uplift, southwest Peru: A thermochronometer and numerical modeling approach. *Journal of Geophysical Research: Earth Surface*, *114*(F4). doi: [10.1029/2009JF001305](https://dx.doi.org/10.1029/2009JF001305), 2009.
-
-`2007`
-**D. M. Whipp** and T. A. Ehlers. Influence of groundwater flow on thermochronometer-derived exhumation rates in the central Nepalese Himalaya. *Geology*, *35*(9):851–854. doi: [10.1130/G23788A.1](https://dx.doi.org/10.1130/G23788A.1),  2007.
-
-K. W. Huntington, T. A. Ehlers, K. V. Hodges, and **D. M. Whipp**. Topography, exhumation pathway, age uncertainties, and the interpretation of erosion rates from thermochronometer data. *Tectonics*, *26*(4) . doi: [10.1029/2007TC002108](http://dx.doi.org/10.1029/2007TC002108), 2007.
-
-**D. M. Whipp**, T. A. Ehlers, A. E. Blythe, K. W. Huntington, K. V. Hodges, and D. W. Burbank. Plio-Quaternary exhumation history of the central Nepalese Himalaya: 2. Thermo-kinematic and thermochronometer age prediction model. *Tectonics*, *26*(3). doi: [10.1029/2006TC001991](https://dx.doi.org/10.1029/2006TC001991), 2007.
 
 ### Software
 
 **D. M. Whipp**. Tc1D: a 1D thermal and thermochronometer age prediction model for quantifying rates of geodynamic and geomorphic processes. doi: [10.5281/zenodo.7124271](https://doi.org/10.5281/zenodo.7124271)
 
-**D. M. Whipp** and R. A. Ketcham. tcplotter: a Python package for creating and customizing thermochronometer age and closure temperature plots. doi: [10.5281/zenodo.5958939](https://doi.org/10.5281/zenodo.5958939).
+**D. M. Whipp**and R. A. Ketcham. tcplotter: a Python package for creating and customizing thermochronometer age and closure temperature plots. doi: [10.5281/zenodo.5958939](https://doi.org/10.5281/zenodo.5958939).
 
-## Grants and funding
-
-*Funding includes only amounts over 5000€* -->
-
-<!--
-
-### Under review
-
-`2022-2026`
-**Research infrastructure funding**, *Academy of Finland*, Finland, 440 558€ (Project total: 1 735 558€). Consortium PI.<br/>
-DATA-EPOS: Modern and efficient metadata and data handling platforms for FIN-EPOS
-
-**Academy Project**, *Academy of Finland*, Finland, 599 648€. Sole PI.<br/>
-Extracting the Record of mountain Erosion processes COntained in River Detritus (E-RECORD)
-
--->
-<!-- 
-### Under review
-`2023-2027`
-**Academy Project**, *Academy of Finland*, Finland, 501 081€. Sole PI.<br/>
-EXploiting Thermochronometer sensitivity to RAdiation damage to quantify rates of Craton exhumation through Time (EXTRACT)
 
 ### Research funding
 
 `2021-2023`
 **Project funding**, *Renlund foundation*, Finland, 37 992€. Sole PI.<br/>
 Building quantitative links between geodynamics and metamorphism in the Paleoproterozoic: Insight into emplacement of orogenic gold deposits
-
-`2014–2018`
-**Academy Project**, *Academy of Finland*, Finland, 451 763€. Sole PI.<br/>
-What controls deformation in a ‘bent’ 3D orogen? The effects of spatially variable rock strength, erosion and mass transport on the tectonics of the Bolivian Andes
-
-`2014–2017`
-**Three-Year Research Project**, *University of Helsinki*, Helsinki, Finland,<br/> 145 000€. Sole PI.<br/>
-What controls strain partitioning at obliquely convergent ocean-continent margins? 3D dynamics of crustal deformation along the western Andean margin
-
-`2010-2012`
-**ACEnet Research Fellowships Program**, *Atlantic Canada Computational Excellence Network (ACEnet)*, Canada, $40 000 [CAD]. Co-PI with C. Beaumont.<br/>
-3-D plateau formation and evolution from numerical model experiments
-
-### Infrastructure
-
-`2016`
-**Faculty of Science internal infrastructure funding**, *University of Helsinki*, Helsinki, Finland, 90 000€. Sole PI.<br/>
-Geosciences high-performance computing cluster (geo-hpcc)
-
-`2014`
-**Department of Geosciences and Geography internal infrastructure funding**, *University of Helsinki*, Helsinki, Finland, 120 000€. Sole PI.<br/>
-Computational infrastructure for Earth Sciences
-
-### Computing allocations
-
-`2014`
-**PRACE Preparatory Access**, *Partnership for Advanced Computing in Europe (PRACE)*, Brussels, Belgium, 200,000 core-hours. Sole PI.<br/>
-Nested DOUAR: Coupling high and low resolution finite element models to solve 3D geologic problems
-
-`2012`
-**Compute Canada National Resource Allocation**, *Compute Canada*, Toronto, ON, Canada, 109 core-years. Co-PI with J. Allen and C. Beaumont.<br/>
-Modelling the three-dimensional dynamics of geologic systems: From sub-sea salt to the Himalayan peaks
-
-## Awards and honors
-
-`2020`
-**Teacher of the Year**, *Vasara Ry (Geology student organization), University of Helsinki*, Finland.
-
-`2014`
-**Exceptional Reviewer**, *Lithosphere*, *Geological Society of America*.
-
-`2007`
-**Outstanding Graduate Student Instructor Award**, *Rackham Graduate School, University of Michigan*, Ann Arbor, MI, USA.
-
-**Outstanding Graduate Student Instructor Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-`2006`
-**Outstanding Student Paper Award**, *Tectonophysics Section*, American Geophysical Union Fall Meeting.
-
-`2003`
-**Camp Davis Field Geologist Award**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.
-
-## Invited talks
-
-`2019`
-**University of Turku**, *Department seminar, Department of Geography and Geology*, Turku, Finland.
-
-`2018`
-**16th International Conference on Thermochronology (Thermo 2018)**, *Session 2: Diffusion / annealing kinetics and thermal modelling*, Quedlinburg, Germany.
-
-`2017`
-**University of Lausanne**, *Department seminar, Institute of Earth Sciences*, Lausanne, Switzerland.
-
-**European Geosciences Union General Assembly**, *Session TS7.8: Mountain building processes, from top to bottom: the Zagros-Himalaya-Tibet orogenic system*, Vienna, Austria.
-
-`2016`
-**American Geophysical Union Fall Meeting**, *Session T42B: Sedimentary Basin Records of Convergent Orogenic Systems*, San Francisco, CA, USA.
-
-**University of Potsdam**, *Colloquium talk, Institute of Earth and Environmental Science*, Potsdam, Germany.
-
-`2014`
-**American Geophysical Union Fall Meeting**, *Session EP23G: From High Peaks to Level Plains: Using Thermochronometry to Study the Evolving Geosphere*, San Francisco, CA, USA.
-
-`2013`
-**University of Tübingen**, *Earth System Dynamics Research Group seminar, Department of Geosciences*, Tübingen, Germany.
-
-`2011`
-**Joseph Fourier University**, *Grand séminaire, Institut des Sciences de la Terre*, Grenoble, France.
-
-`2009`
-**Geological Society of America Annual Meeting**, *Session T46: Linking Shallow to Deep Crustal Processes in Arc and Collisional Orogens*, Portland, OR, USA.
-
-**Joseph Fourier University**, *Seminar talk, Laboratoire de géodynamique des chaînes alpines*, Grenoble, France.
-
-`2007`
-**Dalhousie University**, *Department seminar, Department of Earth Sciences*, Halifax, NS, Canada.
-
-## Conference activity
-
-### Organization
-
-`2017`
-**Session chair**, *NetherMod 2017 - XV International Workshop on Numerical Modelling of Mantle and Lithosphere Dynamics*, Putten, Netherlands.<br/>
-“Global modelling of early and recent Earth”
-
-`2016`
-**Session co-convener**, *Nordic Geological Winter Meeting*, Helsinki, Finland.<br/>
-“Dynamics and evolution of the lithosphere from Archean to present”<br/>
-“Interactions between climate, erosion and tectonics”
-
-`2014`
-**Steering committee**, *Lithosphere 2014 symposium*, Turku, Finland.
-
-`2013`
-**Session co-chair**, *28th Himalayan Karakorum Tibet Workshop and 6th International Symposium on Tibetan Plateau Joint Conference*, Tübingen, Germany.<br/>
-“Crustal Doming, Exhumation and Lateral Extrusion”
-
-`2010`
-**Session co-convener**, *Geological Society of America Annual Meeting*, Denver, Colorado, USA.<br/>
-“Orogeny: From rigid plates to diffuse lithospheric deformation”, one of several sessions celebrating the 30th anniversary of the Structural Geology and Tectonics Division of the GSA
 
 ## Teaching
 
@@ -301,29 +183,6 @@ Links: <i class="fas fa-home"></i> = course homepage, <i class="fab fa-github"><
 `2017`
 **Low-temperature thermochronology**, *GeoDoc short course, University of Helsinki*, Helsinki, Finland. <a href="https://thermochron.github.io"><i class="fas fa-home"></i></a> <a href="https://www.youtube.com/channel/UCNL_O8rOUsIRRzhvqh8qgjg"><i class="fab fa-youtube"></i></a><br/>
 Co-taught with Ilmo Kukkonen and invited lecturers Cécile Gautheron, Christoph Glotzbach, and Clare Warren
-
-`2016`
-**Introduction to lithospheric geodynamic modelling**, *Nordic Geological Winter Meeting*, Helsinki, Finland. <a href="https://github.com/HUGG/NGWM2016-modelling-course"><i class="fas fa-home"></i></a><br/>
-Co-taught with Lars Kaislaniemi
-
-`2015`
-**Software Carpentry Bootcamp**, *University of Helsinki*, Helsinki, Finland. <a href="https://cbig.github.io/2015-11-25-helsinki/"><i class="fas fa-home"></i></a><br/>
-Co-taught with Joona Lehtomäki
-
-**Introduction to Lithospheric Geodynamics**, *Geological Survey of Finland*, Espoo, Finland.<br/>
-Co-taught with Lars Kaislaniemi
-
-### Guest lectures
-
-`2010-present`
-**Geochronology and Thermochronology**, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Guest lectures in years 2010, 2019, 2021, 2022
-
-`2019`
-**Geo-Python**, *Department of Geography and Geology, University of Turku and Department of Geology and Mineralogy, Åbo Akademi University*, Turku, Finland.
-
-`2015-2018`
-**Geological Processes/Dynamic Earth (Introductory geoscience course)**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
 
 ### Assistant teaching
 
@@ -411,68 +270,6 @@ Co-supervised with Jorina Schütt
 `2017-present`
 **Mehrnoosh Ghadimi**, *Department of Physical Geography, University of Tehran*, Tehran, Iran.
 
-### Supervisory committee
-
-`2021-present`
-**Niina Junno**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
-`2020-present`
-**Toni Luoto**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
-**Tsarsitalidou, Christina**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
-`2020-2022`
-**Riikka Fred**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
-**Ville Virtanen**, *Doctoral student, Doctoral program in Geosciences, University of Helsinki*, Helsinki, Finland.
-
-`2019-2021`
-**Suoya Fan**, *Doctoral student, Dept. of Earth and Atmospheric Sciences, University of Houston*, Houston, TX, USA.
-
-`2018`
-**Rémi Vachon**, *Doctoral student, Dept. of Earth Sciences, Uppsala University*, Uppsala, Sweden.
-
-`2011–2016`
-**Janice Allen**, *Doctoral student, Dept. of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Now: Imperial Oil, Canada
-
-`2012–2015`
-**Gabe Creason**, *Masters student, *Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.<br/>
-Now: Ph.D. student, Oregon State University
-
-`2011–2014`
-**Kyle Landry**, *Masters student, Department of Earth Sciences, Dalhousie University*, Halifax, NS, Canada.
-
-### Undergraduate researchers
-
-`2021`
-**Bérénice Cateland**, *Geosciences, University of Bordeaux*, Bordeaux, France.
-
-`2017-2019`
-**Leevi Tuikka**, *Department of Physics, University of Helsinki*, Helsinki, Finland.
-
-`2019`
-**Christoph Brendel**, *Institute for Geology, University of Hamburg*, Hamburg, Germany.
-
-**Jugraj Singh**, *Rajiv Gandhi Institute of Petroleum Technology*, Jais, Uttar Pradesh, India.
-
-`2018`
-**Marta Girbau**, *Department of Geology, Universitat Autònoma de Barcelona*, Barcelona, Spain.
-
-`2016`
-**Miro Pütz**, *Institute of Geophysics, University of Hamburg*, Hamburg, Germany.
-
-`2014`
-**Niclas Blomqvist**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2006–2008`
-**Chris Spath**, *Department of Electrical Engineering and Computer Science, University of Michigan*, Ann Arbor, MI, USA.<br/>
-Co-supervised with Todd Ehlers
-
-`2004`
-**Nick Olds**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, MI, USA.<br/>
-Co-supervised with Todd Ehlers
-
 ## Professional training
 
 `2020`
@@ -491,90 +288,6 @@ A short course on how to conduct and share classroom observations.
 
 `2022-present`
 **Member**, Finnish national International Lithosphere Program (ILP) committee.
-
-`2022-2024`
-**Associate editor**, Tektonika, <https://tektonika.online>.
-
-`2020`
-**Review panel member**, *German Research Foundation Priority Programs (SPP 2017: Mountain Building Process in Four Dimensions)*, Berlin, Germany.
-
-`2019-present`
-**Preparatory committee member**, *AdriaArray project*.
-
-`2016-2018`
-**Judge**, *Outstanding Student Poster and PICO Award, European Geosciences Union General Assembly*, Vienna, Austria.
-
-`2013-2016`
-**Judge**, *Outstanding Student Paper Awards, American Geophysical Union Fall Meeting*, San Francisco, CA, USA.<br/>
-Did not attend/judge in 2015
-
-`2013-2015`
-**Scientific expert in review panel**, *Fennovoima nuclear power company*, Helsinki, Finland.
-
-`2007-present`
-**Referee**.
-
-**Journals**: *Basin Research*, *Chemical Geology*, *Earth and Planetary Science Letters*, *Earth-Science Reviews*, *Earth Surface Processes and Landforms*, *G-cubed (Geochemistry, Geophysics, Geosystems)*, *Geological Society of America Bulletin*, *Geology*, *Geophysica*, *Geoscientific Model Development*, *International Journal of Earth Sciences*, *Journal of Geology*, *Journal of Geophysical Research - Earth Surface*, *Journal of Geophysical Research - Solid Earth*, *Journal of South American Earth Sciences*, *Lithosphere*, *Nature Communications*, *Nature Geoscience*, *Science*, *Tectonics*, *Tectonophysics*
-
-**Research project proposals**: German Research Foundation, Natural Sciences and Engineering Research Council of Canada, The Royal Society UK (International Collaboration Awards), UK Natural Environment Research Council, US National Science Foundation (Earth Sciences Postdoctoral Fellowship program, Geomorphology and Land Use Dynamics program, Tectonics program)
-
-## University service
-
-`2022-present`
-**Director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
-
-**Board member**, *Doctoral program in Geosciences*, University of Helsinki, Helsinki, Finland.
-
-`2020-present`
-**Deputy director**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.
-
-`2018-present`
-**Deputy member**, *Department of Geosciences and Geography mangagement group, University of Helsinki*, Helsinki, Finland.
-
-**Member**, *Department of Geosciences and Geography communications group, University of Helsinki*, Helsinki, Finland.
-
-`2021-2022`
-**Vice director**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
-
-`2018-2022`
-**Leader**, *Department of Geosciences and Geography well-being group, University of Helsinki*, Helsinki, Finland.
-
-**Steering group member**, *Bachelor’s Programme in Science (in English)*, University of Helsinki, Helsinki, Finland.
-
-`2017-2020`
-**Steering group member**, *Masters program in Geology and Geophysics*, University of Helsinki, Helsinki, Finland.
-
-`2017-2018`
-**Preparatory group member**, *BSc of Science in English degree, University of Helsinki*, Helsinki, Finland.
-
-`2013-2018`
-**Co-coordinator geoscience seminar**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2015-2017`
-**Department council member**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2014-2016`
-**Co-coordinator of Solid Earth Geophysics Masters program**, *Department of Geosciences and Geography, University of Helsinki*, Helsinki, Finland.
-
-`2007-2008`
-**Graduate Student Mentor**, *Department of Geological Sciences, University of Michigan*, Ann Arbor, Michigan, USA.
-
-## Community outreach
-`2020`
-**Guest lecture**, *Kumpula Campus, University of Helsinki*, Finland.<br/>
-Introduction to the geodynamics of the Himalayan orogen for visiting high school students from the Germal School Helsinki
-
-`2015`
-**Guest lecture**, *Institute of Seismology, University of Helsinki*, Helsinki, Finland.<br/>
-Introduction to my general areas of research on mountain evolution for visiting high school students from Tampere, Finland
-
-`2013`
-**Presenter**, *Science Bazaar, University of Helsinki*, Helsinki, Finland.<br/>
-Presentation on mountain systems to the audience of undergraduate students present for their orientation at the Kumpula Science Campus of the University of Helsinki
-
-`2007`
-**Guest lecture**, *Melbourne High School*, Melbourne, FL, USA.<br/>
-Introduction to the geology and culture of Nepal related to reading of Jon Krakauer’s *Into Thin Air* for eleventh grade English students
 
 ## Memberships
 
