@@ -1,0 +1,104 @@
+---
+layout: reveal
+theme: simple
+title: Log crane modeling and control
+permalink: /slides/log_crane_06_2023/
+---
+
+## Reinforcement Learning in&nbsp;Forestry
+
+Ilya Kurinov, *Grzegorz Orzechowski*, Aki Mikkola
+
+---
+
+<!-- .slide: data-background-image="log_crane.png"  data-background-position="left" data-background-size="contain" data-background-opacity=0 -->
+<div style="display: flex;">
+<div style="flex: 1; width=50%;">&nbsp;</div>
+<div style="flex: 1;">
+
+## We have
+
+- Model
+- Environment
+- First tests
+- Ideas
+<!-- - But no results -->
+</div>
+</div>
+---
+<!-- .slide: data-background-image="log_crane.png"  data-background-position="right" data-background-size="contain" data-background-opacity=0 -->
+
+<div style="display: flex;">
+<!-- <img data-src="log_crane.png" style="max-width: 50%; height: auto; flex: 1;"> -->
+<div style="flex: 1;">
+
+### Simulation, Reward, and&nbsp;Dense Observation
+
+ - Kinematics of links, logs
+ - Collisions
+ - Loading point
+
+</div>
+<div style="flex: 1; width=50%;">&nbsp;</div>
+</div>
+
+___
+
+### Simulation, Reward, and Camera Observation
+
+<img data-src="camera_input_rgba.png" style="max-width: 40%; height: auto;">
+&nbsp;
+<img data-src="camera_input_depth.png" style="max-width: 35%; height: auto;">
+
+___
+
+### Learning from Demonstration
+
+<img data-src="learning_from_demo.png" style="max-width: 100%; height: auto;">
+
+___
+
+### Curriculum Learning
+
+<img data-src="curriculum_learning.png" style="max-width: 75%; height: auto;">
+
+---
+
+### PyBullet → IsaacGym
+
+<iframe data-autoplay width="1519" height="542" src="https://www.youtube.com/embed/8sO7VS3q8d0" title="Learning to Walk in Minutes Using Massively Parallel Deep RL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+### Results
+
+<img data-src="Picture7.gif" style="width: 216px; height: 216px;">
+
+<img data-src="Picture9.gif" style="width: 216px; height: 216px;">
+
+<img data-src="Picture10.gif" style="width: 216px; height: 216px;">
+
+<img data-src="Picture11.gif" style="width: 216px; height: 216px;">
+
+---
+
+<!-- ## Contributions -->
+
+<!-- ### Possible RL Approaches -->
+
+ <!-- - RL, Simulation, Reward, Observations
+ - Learning from demonstration
+ - Curriculum learning
+ - IsaacSim  -->
+
+
+RL, Simulation, Reward, Observations
+
+Learning from demonstration
+
+Curriculum learning
+
+IsaacSim 
+
+
+Note: Why we want to do?

@@ -4,11 +4,16 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<title> {% if page.title %} {{ page.title }} {% else %} reveal.js {% endif %} </title>
+	<title>{{ page.title | default: "reveal.js" }}</title>
 
 	<link rel="stylesheet" href="/assets/dist/reset.css">
 	<link rel="stylesheet" href="/assets/dist/reveal.css">
-	<link rel="stylesheet" href="/assets/dist/theme/night.css">
+	<link rel="stylesheet" href="/assets/dist/theme/{{ page.theme | default: "night" }}.css">
+	<style>
+		.reveal ul {
+			list-style-type: none;
+		}
+	</style>
 
 	<!-- Theme used for syntax highlighted code -->
 	<link rel="stylesheet" href="/assets/plugin/highlight/monokai.css">
