@@ -62,25 +62,25 @@ Lappeenranta University of Technology, Finland (7 months)
 
 `2007-2012` **Researcher**, *Faculty of Power and Aeronautical Engineering*, Warsaw University of Technology, Poland
 
-<!-- ## Research funding and grants 
+## Research funding and grants 
 
-`2022-2024` **\textquotedblleft SANTTU -- To reduce stress from machine \& operator\textquotedblright , Business Finland project, €\,1\,006\,000, project manager, investigator.**
+`2022-2024` **“SANTTU -- To reduce stress from machine & operator”**, *Business Finland project*, €1 006 000, project manager, investigator.
 
-`2021-2024` **\textquotedblleft AITOC -- Artificial Intelligence supported Tool Chain in Manufacturing Engineering\textquotedblright , ITEA 3 project no. 19027, €\,1\,080\,376, investigator.**
+`2021-2024` **“AITOC -- Artificial Intelligence supported Tool Chain in Manufacturing Engineering”**, *ITEA 3 project no. 19027*, €1 080 376, investigator.
 
-`2019-2021` **\textquotedblleft Real-time simulator-driver design and manufacturing based on flexible systems\textquotedblright , Research project 845600 -- RealFlex, granted by European Commission under Marie Sk\l odowska-Curie Individual Fellowships, €\,202\,681, principal investigator.**
+`2019-2021` **“Real-time simulator-driver design and manufacturing based on flexible systems”**, *Research project 845600 -- RealFlex, granted by European Commission under Marie Skłodowska-Curie Individual Fellowships*, €202 681, principal investigator.
 
-`2017-2018` **\textquotedblleft Virtual Coach Based on Multibody Dynamics\textquotedblright , Decision No. 305737, granted by Academy of Finland, €\,537\,809, project manager, no role in preparation, PI Perttu Hämäläinen.**
+`2017-2018` **“Virtual Coach Based on Multibody Dynamics”**, *Decision No. 305737, granted by Academy of Finland*, €537 809, project manager, no role in preparation, PI Perttu Hämäläinen.
 
-`2013-2017` **\textquotedblleft Flexible, Overconstrained Multibody Systems Modeling using Sequential and Parallel Methods\textquotedblright , Research project no. 2012/07/B/ST8/03993 granted by the Polish National Science Centre, 803\,480\,PLN (approx. €\,190\,000), contractor, co-author, PI Janusz Fr\k{a**czek.}
+`2013-2017` **“Flexible, Overconstrained Multibody Systems Modeling using Sequential and Parallel Methods”**, *Research project no. 2012/07/B/ST8/03993 granted by the Polish National Science Centre*, 803 480PLN (approx. €190 000), contractor, co-author, PI Janusz Frączek.
 
-`2015` **\textquotedblleft Modeling of Composite Structures using Flexible Multibody Absolute Nodal Coordinate Formulation\textquotedblright , Research project granted by the Dean of The Faculty of Power and Aeronautical Engineering, 20\,000\,PLN (appro6x. €\,4\,500), principal investigator.**
+`2015` **“Modeling of Composite Structures using Flexible Multibody Absolute Nodal Coordinate Formulation”**, *Research project granted by the Dean of The Faculty of Power and Aeronautical Engineering*, 20 000PLN (approx. €4 500), principal investigator.
 
-`2013` **\textquotedblleft Modeling of Flexible Multibody Systems using Absolute Nodal Coordinate Formulation and Explicit Integration Schemes\textquotedblright , Research project granted by the Dean of The Faculty of Power and Aeronautical Engineering, 20\,000\,PLN (approx. €\,4\,500), principal investigator.**
+`2013` **“Modeling of Flexible Multibody Systems using Absolute Nodal Coordinate Formulation and Explicit Integration Schemes”**, *Research project granted by the Dean of The Faculty of Power and Aeronautical Engineering*, 20 000PLN (approx. €4 500), principal investigator.
 
-`2011-2013` **\textquotedblleft Modeling of Flexible Multibody Systems in Absolute Nodal Coordinate Formulation\textquotedblright , Doctoral research project no. N N514 673340 granted by the Polish National Science Centre, 80\,000\,PLN (approx. €\,19\,000), main author, contractor, PI Janusz Fr\k{a**czek.}
+`2011-2013` **“Modeling of Flexible Multibody Systems in Absolute Nodal Coordinate Formulation”**, *Doctoral research project no. N N514 673340 granted by the Polish National Science Centre*, 80 000PLN (approx. €19 000), main author, contractor, PI Janusz Frączek.
 
-## Research output
+<!-- ## Research output
 
 **Eighteen  publications in international peer-reviewed journals.**
 
@@ -128,7 +128,7 @@ Lappeenranta University of Technology, Finland (7 months)
 
 `2022` **Member of the Young Scientists Editorial Board of the International Journal of Mechanical System Dynamics.**
 
-`2022` **Co-organizer of the special issue on \textquotedblleft Bid-data techniques in Multibody Dynamics\textquotedblright{**in Journal of Multibody Systems Dynamics.}
+`2022` **Co-organizer of the special issue on “Bid-data techniques in Multibody Dynamics”{**in Journal of Multibody Systems Dynamics.}
 
 `2019` **Co-organizer of the Symposium on Flexible Multibody Dynamics within the ASME International Conference on Multibody Systems, Nonlinear Dynamics, and Control.**
 

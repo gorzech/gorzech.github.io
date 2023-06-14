@@ -1,0 +1,77 @@
+---
+layout: reveal
+title: Data-driven hydraulic friction force
+---
+
+## Data-driven Friction Force in Hydraulic Actuator
+
+Seongji Han, *Grzegorz Orzechowski*, Jin-Gyun Kim, Aki Mikkola
+
+---
+
+### *Accurately* and *efficiently* account for the **friction force** in hydraulic cylinder 
+
+Note: What we want to do?
+
+___
+
+### Friction depends nonlinearly on several state parameters
+
+Note: Why we want to do?
+
+___
+
+### Deep Neural Networks
+
+Note: How we want to do it?
+
+---
+
+<h3>
+    <div class="fragment highlight-current-red" style="display:inline" data-fragment-index="1">Data</div> 
+    → 
+    <div class="fragment highlight-current-red" style="display:inline" data-fragment-index="2">Network</div>
+    → 
+    <div class="fragment highlight-current-red" style="display:inline" data-fragment-index="3">Model</div> 
+</h3>
+
+<div class="r-stack">
+    <div class="fragment current-visible" data-fragment-index="1">
+        <img data-src="fourbar_black.png" style="max-width: 60%; height: auto;"><br/>
+        $\dot{s}$, $p$
+    </div>
+    <div class="fragment current-visible" data-fragment-index="2">
+        <img data-src="tdnn_black.png" style="max-width: 60%; height: auto;"><br/>
+        Time-Delay Neural Network
+    </div>
+    <div class="fragment current-visible" data-fragment-index="3">
+        <img data-src="fourbar_results_black.png" style="max-width: 80%; height: auto;"><br/>
+        One-step Predictor
+    </div>
+</div>
+
+Note: How the study is designed
+
+---
+
+### Single cylinder
+
+<img data-src="results_single_cylinder_force.png" style="max-width: 100%; height: auto;">
+
+___
+
+### Four-bar
+
+<img data-src="results_fourbar_force.png" style="max-width: 100%; height: auto;">
+
+---
+
+<!-- ## Contributions -->
+
+Data-driven model of nonlinear hydraulic friction
+
+Input selection vs. prediction performance
+
+Use of trained model in different configuration
+
+Next: model based on measurements
