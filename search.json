@@ -1,31 +1,38 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
+    "objectID": "content/profiles/research-group.html",
+    "href": "content/profiles/research-group.html",
     "title": "Grzegorz Orzechowski",
     "section": "",
-    "text": "Located at LUT Lahti. The only mechanical engineering outpost of LUT. Custom designs, industrial applications, virtual engineering, and value offer via operational digital twins.\nWe develop simulation and digital twin methods for autonomous and human-aware machinery, including: - multibody and hydraulic system modeling - sim-to-real workflows - data-driven surrogate models - human/environment modeling for safety\nSelected domains: logistics, healthcare, forestry, construction, non-road mobile machinery."
-  },
-  {
-    "objectID": "research.html#sustainable-mechatronics",
-    "href": "research.html#sustainable-mechatronics",
-    "title": "Grzegorz Orzechowski",
-    "section": "",
-    "text": "Located at LUT Lahti. The only mechanical engineering outpost of LUT. Custom designs, industrial applications, virtual engineering, and value offer via operational digital twins.\nWe develop simulation and digital twin methods for autonomous and human-aware machinery, including: - multibody and hydraulic system modeling - sim-to-real workflows - data-driven surrogate models - human/environment modeling for safety\nSelected domains: logistics, healthcare, forestry, construction, non-road mobile machinery."
-  },
-  {
-    "objectID": "content/profiles/greg.html",
-    "href": "content/profiles/greg.html",
-    "title": "Grzegorz Orzechowski",
-    "section": "",
-    "text": "I work on multibody simulations, digital twins, and robotics with focus on sim-to-real transfer for non-road mobile machinery.\nCurrent interests:\n\nAutonomous machinery\nML for mechanical systems\nDigital twins"
+    "text": "Sustainable Mechatronics\nLocated at LUT Lahti. The only mechanical engineering outpost of LUT. Custom designs, industrial applications, virtual engineering, and value offer via operational digital twins.\nWe develop simulation and digital twin methods for autonomous and human-aware machinery, including: - multibody and hydraulic system modeling - sim-to-real workflows - data-driven surrogate models - human/environment modeling for safety\nSelected domains: logistics, healthcare, forestry, construction, non-road mobile machinery."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Grzegorz Orzechowski",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Associate Professor (Tenure Track), LUT University\nLahti / Lappeenranta · Finland\nEmail: grzegorz.orzechowski@lut.fi · Phone: +358 50 431 0717"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Grzegorz Orzechowski",
+    "section": "About",
+    "text": "About\nI work on multibody simulations, digital twins, and robotics with focus on sim-to-real transfer for non-road mobile machinery.\nCurrent interests:\n\nAutonomous machinery\nML for mechanical systems\nDigital twins"
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Grzegorz Orzechowski",
+    "section": "Research",
+    "text": "Research\nCore areas\n\nMultibody dynamics & flexible multibody simulation\nDigital twins for machinery and robotics\nSim-to-real workflows and data-driven modeling\n\nSustainable Mechatronics @ LUT Lahti\n\nSustainable Mechatronics\nLocated at LUT Lahti. The only mechanical engineering outpost of LUT. Custom designs, industrial applications, virtual engineering, and value offer via operational digital twins.\nWe develop simulation and digital twin methods for autonomous and human-aware machinery, including: - multibody and hydraulic system modeling - sim-to-real workflows - data-driven surrogate models - human/environment modeling for safety\nSelected domains: logistics, healthcare, forestry, construction, non-road mobile machinery."
+  },
+  {
+    "objectID": "index.html#selected-links",
+    "href": "index.html#selected-links",
+    "title": "Grzegorz Orzechowski",
+    "section": "Selected links",
+    "text": "Selected links\n\nGoogle Scholar: link\nORCID: link\nGitHub: link\nLUT profile: link"
   },
   {
     "objectID": "LICENSE.html",
@@ -35,17 +42,10 @@
     "text": "Copyright (c) 2023 Grzegorz Orzechowski\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I work on multibody simulations, digital twins, and robotics with focus on sim-to-real transfer for non-road mobile machinery.\nCurrent interests:\n\nAutonomous machinery\nML for mechanical systems\nDigital twins"
-  },
-  {
-    "objectID": "content/profiles/research-group.html",
-    "href": "content/profiles/research-group.html",
+    "objectID": "content/profiles/greg.html",
+    "href": "content/profiles/greg.html",
     "title": "Grzegorz Orzechowski",
     "section": "",
-    "text": "Sustainable Mechatronics\nLocated at LUT Lahti. The only mechanical engineering outpost of LUT. Custom designs, industrial applications, virtual engineering, and value offer via operational digital twins.\nWe develop simulation and digital twin methods for autonomous and human-aware machinery, including: - multibody and hydraulic system modeling - sim-to-real workflows - data-driven surrogate models - human/environment modeling for safety\nSelected domains: logistics, healthcare, forestry, construction, non-road mobile machinery."
+    "text": "I work on multibody simulations, digital twins, and robotics with focus on sim-to-real transfer for non-road mobile machinery.\nCurrent interests:\n\nAutonomous machinery\nML for mechanical systems\nDigital twins"
   }
 ]
