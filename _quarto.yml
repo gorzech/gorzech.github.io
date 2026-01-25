@@ -3,24 +3,13 @@ project:
 
 website:
   title: "Grzegorz Orzechowski"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: talks.qmd
-        text: Talks
-      - href: cv.qmd
-        text: CV
+  navbar: false
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 
 

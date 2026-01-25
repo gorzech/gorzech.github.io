@@ -1,7 +1,57 @@
 ---
 title: "Grzegorz Orzechowski"
+format:
+  html:
+    toc: false
 ---
 
-This is a Quarto website.
+::: {.columns}
+::: {.column width="68%"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<!-- # Grzegorz Orzechowski   -->
+**Associate Professor (Tenure Track), LUT University**
+
+Lahti / Lappeenranta · Finland  
+Email: grzegorz.orzechowski@lut.fi · Phone: +358 50 431 0717
+
+:::
+
+::: {.column width="32%"}
+![](content/assets/people/greg.jpg){fig-alt="Portrait" width=260}
+:::
+:::
+
+---
+
+## About
+
+{{< include content/profiles/greg.md >}}
+
+---
+
+## Research
+
+**Core areas**
+
+- Multibody dynamics & flexible multibody simulation
+- Digital twins for machinery and robotics
+- Sim-to-real workflows and data-driven modeling
+
+**Sustainable Mechatronics @ LUT Lahti**  
+
+{{< include content/profiles/research-group.md >}}
+
+---
+
+## Selected links
+
+- Google Scholar: *[link](https://scholar.google.com/citations?user=nqmTFJIAAAAJ){target="_blank"}*
+- ORCID: *[link](https://orcid.org/0000-0002-3252-1236){target="_blank"}*
+- GitHub: *[link](https://github.com/gorzech){target="_blank"}*
+- LUT profile: *[link](https://www.lut.fi/en/profiles/grzegorz-orzechowski){target="_blank"}*
+
+<!-- ---
+
+## CV
+
+- Download: [CV PDF](files/cv.pdf) -->
