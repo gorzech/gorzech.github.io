@@ -1,20 +1,32 @@
 # gorzech.github.io
-Personal webpage of Grzegorz Orzechowski
 
-The webpage is hosted on [GitHub Pages](https://pages.github.com/) using [Jekyll](https://jekyllrb.com/). The favicon was created using [Favicon Generator](https://favicon.io).
+Personal website of Grzegorz Orzechowski, built with [Quarto](https://quarto.org/) and published to [GitHub Pages](https://pages.github.com/).
 
-## Jekyll layouts
+## Project layout
 
-In this project I am using some open-source, freely available layouts. The details are provided below.
+- `index.qmd`: main pages
+- `styles.css`: site styles
+- `_quarto.yml`: site configuration
+- `content/`: submodule with shared content (e.g., `content/profiles/greg.md`)
 
-### Main Layout
+## Local preview
 
-For the main layout, I am using [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) [Jekyll](https://jekyllrb.com/) theme.
+```bash
+quarto preview
+```
 
-### CV layout
+## Publish
 
-For generating my [CV](https://gorzech.github.io/cv) I am using [markdown-cv](https://github.com/davewhipp/markdown-cv) by [David Whipp](https://davewhipp.github.io/markdown-cv/). It is modified version of orignal [markdown-cv](https://github.com/elipapa/markdown-cv) by [Eliseo Papa](https://elipapa.github.io/mycv/extended).
+GitHub Actions renders and publishes the site to `gh-pages`. You can also publish manually:
 
-## Slides
+```bash
+quarto publish gh-pages
+```
 
-For making the slideshow, I have copied the file from another open-source project -- [Reveal.js](https://revealjs.com/).
+## Submodule setup
+
+This repo uses a `content` submodule. Initialize it after cloning:
+
+```bash
+git submodule update --init --recursive
+```
