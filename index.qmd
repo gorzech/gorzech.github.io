@@ -17,7 +17,7 @@ Email: grzegorz.orzechowski@lut.fi · Phone: +358 50 431 0717
 :::
 
 ::: {.column width="32%"}
-![](content/assets/people/greg.jpg){fig-alt="Portrait" width=260}
+![](/atoms/assets/people/greg.jpg){fig-alt="Portrait" width=260}
 :::
 :::
 
@@ -25,7 +25,7 @@ Email: grzegorz.orzechowski@lut.fi · Phone: +358 50 431 0717
 
 ## About
 
-{{< include content/profiles/greg.md >}}
+{{< include /atoms/profiles/greg.md >}}
 
 ---
 
@@ -39,7 +39,7 @@ Email: grzegorz.orzechowski@lut.fi · Phone: +358 50 431 0717
 
 **Sustainable Mechatronics @ LUT Lahti**  
 
-{{< include content/profiles/research-group.md >}}
+{{< include /atoms/profiles/research-group.md >}}
 
 ---
 

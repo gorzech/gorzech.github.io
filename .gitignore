@@ -5,3 +5,5 @@ vendor
 
 /.quarto/
 **/*.quarto_ipynb
+
+/.vscode/
