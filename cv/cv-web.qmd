@@ -13,8 +13,10 @@ ORCID: [0000-0002-3252-1236](https://orcid.org/0000-0002-3252-1236)
 Download: [CV PDF](/cv/cv-rcf-pdf.pdf)
 
 ## Positions
+::: {.cv-compact}
 {{< include /atoms/cv/current-employment.md >}}
 {{< include /atoms/cv/previous-employment.md >}}
+:::
 
 ## Education and qualifications
 {{< include /atoms/cv/degrees.md >}}
