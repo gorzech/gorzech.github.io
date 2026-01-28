@@ -1,0 +1,11 @@
+---
+title: "Events"
+---
+
+## Current and upcoming
+
+- [Symposium 2026](symposium2026/)
+
+## Past events
+
+- (Add past events as needed)

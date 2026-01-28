@@ -3,13 +3,28 @@ project:
 
 website:
   title: "Grzegorz Orzechowski"
-  navbar: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: cv/cv-web.qmd
+        text: CV
+      - href: events/index.qmd
+        text: Events
+    right:
+      - icon: github
+        href: https://github.com/gorzech
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=nqmTFJIAAAAJ
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
-
 
 

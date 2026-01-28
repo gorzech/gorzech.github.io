@@ -1,0 +1,31 @@
+---
+title: "Projects"
+---
+
+## Selected projects
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### Project title A
+Problem → your contribution → outcome.  
+Links: [paper](#) · [code](#) · [demo](#)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Project title B
+Problem → your contribution → outcome.  
+Links: [paper](#) · [code](#) · [dataset](#)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Project title C
+Problem → your contribution → outcome.  
+Links: [paper](#) · [code](#)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Project title D
+Problem → your contribution → outcome.  
+Links: [paper](#) · [code](#)
+:::
+:::

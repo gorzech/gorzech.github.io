@@ -1,5 +1,6 @@
 ---
 title: "Grzegorz Orzechowski"
+bibliography: publications.bib
 format:
   html:
     toc: false
@@ -12,7 +13,7 @@ format:
 **Associate Professor (Tenure Track), LUT University**
 
 Lahti / Lappeenranta · Finland  
-Email: grzegorz.orzechowski@lut.fi · Phone: +358 50 431 0717
+Email: grzegorz.orzechowski@lut.fi
 
 :::
 
@@ -50,8 +51,33 @@ Email: grzegorz.orzechowski@lut.fi · Phone: +358 50 431 0717
 - GitHub: *[link](https://github.com/gorzech){target="_blank"}*
 - LUT profile: *[link](https://www.lut.fi/en/profiles/grzegorz-orzechowski){target="_blank"}*
 
-<!-- ---
+---
 
-## CV
+## Selected projects
 
-- Download: [CV PDF](files/cv.pdf) -->
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### Project title A
+Problem → your contribution → outcome.  
+Links: [paper](#) · [code](#) · [demo](#)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Project title B
+Problem → your contribution → outcome.  
+Links: [paper](#) · [code](#) · [dataset](#)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Project title C
+Problem → your contribution → outcome.  
+Links: [paper](#) · [code](#)
+:::
+:::
+
+---
+
+## Selected publications
+- @orzechowski2023twins
+- @orzechowski2022sim2real
+- @orzechowski2021mbd

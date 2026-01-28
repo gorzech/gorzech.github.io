@@ -1,0 +1,40 @@
+---
+title: "Symposium 2026"
+---
+
+## Overview
+
+Brief description of the symposium, theme, and goals.
+
+## Dates and location
+
+- Dates: TBD
+- Location: TBD
+
+## Program
+
+- Schedule overview
+- Key sessions
+
+## Speakers
+
+- Keynote speakers
+- Invited talks
+
+## Submission
+
+- Call for abstracts/papers
+- Deadlines
+- Submission link
+
+## Registration
+
+- Registration opens: TBD
+- Fees: TBD
+- Registration link
+
+## Practical information
+
+- Venue
+- Travel and accommodation
+- Contact
