@@ -2,6 +2,9 @@
 title: "Projects"
 ---
 
+Content coming soon.
+
+<!--
 ## Selected projects
 
 ::: {.grid}
@@ -29,3 +32,4 @@ Problem → your contribution → outcome.
 Links: [paper](#) · [code](#)
 :::
 :::
+-->

@@ -2,6 +2,9 @@
 title: "Symposium 2026"
 ---
 
+Content coming soon.
+
+<!--
 ## Overview
 
 Brief description of the symposium, theme, and goals.
@@ -38,3 +41,4 @@ Brief description of the symposium, theme, and goals.
 - Venue
 - Travel and accommodation
 - Contact
+-->

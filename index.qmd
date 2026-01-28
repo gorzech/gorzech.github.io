@@ -51,6 +51,7 @@ Email: grzegorz.orzechowski@lut.fi
 - GitHub: *[link](https://github.com/gorzech){target="_blank"}*
 - LUT profile: *[link](https://www.lut.fi/en/profiles/grzegorz-orzechowski){target="_blank"}*
 
+<!--
 ---
 
 ## Selected projects
@@ -81,3 +82,4 @@ Links: [paper](#) · [code](#)
 - @orzechowski2023twins
 - @orzechowski2022sim2real
 - @orzechowski2021mbd
+-->
