@@ -1,0 +1,49 @@
+---
+title: "Curriculum Vitae"
+format:
+  pdf:
+    template: rcf-pandoc-template.tex
+    pdf-engine: pdflatex
+    keep-tex: true
+    toc: false
+    number-sections: false
+---
+
+# Personal details and date of CV {.unnumbered}
+{{< include /atoms/cv/personal-details.md >}}
+
+# Degrees {.unnumbered}
+{{< include /atoms/cv/degrees.md >}}
+
+# Current employment {.unnumbered}
+{{< include /atoms/cv/current-employment.md >}}
+
+# Previous work experience {.unnumbered}
+{{< include /atoms/cv/previous-employment.md >}}
+
+# Career breaks {.unnumbered}
+{{< include /atoms/cv/career-breaks.md >}}
+
+# Research funding and grants {.unnumbered}
+{{< include /atoms/cv/funding.md >}}
+
+# Research output {.unnumbered}
+{{< include /atoms/cv/output.md >}}
+
+# Research supervision and leadership experience {.unnumbered}
+{{< include /atoms/cv/supervision-leadership.md >}}
+
+# Teaching merits {.unnumbered}
+{{< include /atoms/cv/teaching.md >}}
+
+# Awards and honours {.unnumbered}
+{{< include /atoms/cv/awards.md >}}
+
+# Other key academic merits {.unnumbered}
+{{< include /atoms/cv/other-academic-merits.md >}}
+
+# Scientific and societal impact {.unnumbered}
+{{< include /atoms/cv/impact.md >}}
+
+# Other {.unnumbered}
+{{< include /atoms/cv/other.md >}}

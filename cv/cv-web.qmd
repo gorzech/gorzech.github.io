@@ -1,0 +1,30 @@
+---
+title: "CV"
+format:
+  html:
+    toc: false
+---
+
+# Grzegorz Orzechowski  
+Associate Professor (Tenure Track), LUT University
+
+ORCID: [0000-0002-3252-1236](https://orcid.org/0000-0002-3252-1236)
+
+## Positions
+{{< include /atoms/cv/current-employment.md >}}
+{{< include /atoms/cv/previous-employment.md >}}
+
+## Education and qualifications
+{{< include /atoms/cv/degrees.md >}}
+
+## Funding (selected)
+{{< include /atoms/cv/funding.md >}}
+
+## Supervision and leadership
+{{< include /atoms/cv/supervision-leadership.md >}}
+
+## Teaching
+{{< include /atoms/cv/teaching.md >}}
+
+## Service
+{{< include /atoms/cv/other-academic-merits.md >}}
