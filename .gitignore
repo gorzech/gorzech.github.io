@@ -5,6 +5,7 @@ vendor
 
 /.quarto/
 **/*.quarto_ipynb
+/site_libs/
 
 /.vscode/
 

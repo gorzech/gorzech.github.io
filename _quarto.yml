@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Grzegorz Orzechowski"
+  site-url: "https://gregdynamics.com"
+  description: "Associate Professor at LUT University. Multibody dynamics, simulation, and autonomous machinery."
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +13,7 @@ website:
         text: Projects
       - href: publications.qmd
         text: Publications
-      - href: cv/cv-web.qmd
+      - href: cv/index.qmd
         text: CV
       - href: events/index.qmd
         text: Events
@@ -20,6 +22,11 @@ website:
         href: https://github.com/gorzech
       - icon: mortarboard
         href: https://scholar.google.com/citations?user=nqmTFJIAAAAJ
+  page-footer:
+    left: "© 2026 Grzegorz Orzechowski • LUT University"
+    right:
+      - text: "Contact"
+        href: mailto:grzegorz.orzechowski@lut.fi
 
 format:
   html:
