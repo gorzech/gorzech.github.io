@@ -1,19 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gorzech.github.io/atoms/profiles/research-group.html</loc>
-    <lastmod>2026-01-26T19:03:31.938Z</lastmod>
+    <loc>https://gorzech.github.io/cv/cv-web.html</loc>
+    <lastmod>2026-01-28T13:50:26.145Z</lastmod>
   </url>
   <url>
-    <loc>https://gorzech.github.io/index.html</loc>
-    <lastmod>2026-01-26T19:03:31.254Z</lastmod>
+    <loc>https://gorzech.github.io/projects.html</loc>
+    <lastmod>2026-01-28T13:50:26.145Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/awards.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/output.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/current-employment.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/other.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/impact.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/previous-employment.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/profiles/research-group.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/publications.html</loc>
+    <lastmod>2026-01-28T13:50:26.145Z</lastmod>
   </url>
   <url>
     <loc>https://gorzech.github.io/LICENSE.html</loc>
-    <lastmod>2026-01-26T19:03:31.254Z</lastmod>
+    <lastmod>2026-01-28T13:50:26.144Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/events/index.html</loc>
+    <lastmod>2026-01-28T13:50:26.145Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/events/symposium2026/index.html</loc>
+    <lastmod>2026-01-28T13:50:26.145Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/index.html</loc>
+    <lastmod>2026-01-28T13:50:26.145Z</lastmod>
   </url>
   <url>
     <loc>https://gorzech.github.io/atoms/profiles/greg.html</loc>
-    <lastmod>2026-01-26T19:03:31.938Z</lastmod>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/funding.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/supervision-leadership.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/teaching.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/career-breaks.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/degrees.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/other-academic-merits.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gorzech.github.io/atoms/cv/personal-details.html</loc>
+    <lastmod>2026-01-28T13:50:26.582Z</lastmod>
   </url>
 </urlset>

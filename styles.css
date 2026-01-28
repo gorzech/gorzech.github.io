@@ -1,1 +1,9 @@
 /* css styles */
+.cv-compact ul {
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+.cv-compact ul + ul {
+  margin-top: 0;
+}

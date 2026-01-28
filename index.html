@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -41,11 +42,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -72,11 +73,64 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="fullcontent quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Grzegorz Orzechowski</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./cv/cv-web.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./events/index.html"> 
+<span class="menu-text">Events</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/gorzech"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=nqmTFJIAAAAJ"> <i class="bi bi-mortarboard" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
@@ -107,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- # Grzegorz Orzechowski   -->
 <p><strong>Associate Professor (Tenure Track), LUT University</strong></p>
 <p>Lahti / Lappeenranta · Finland<br>
-Email: grzegorz.orzechowski@lut.fi · Phone: +358 50 431 0717</p>
+Email: grzegorz.orzechowski@lut.fi</p>
 </div><div class="column" style="width:32%;">
 <p><img src="./atoms/assets/people/greg.jpg" class="img-fluid" alt="Portrait" width="260"></p>
 </div>
@@ -155,11 +209,38 @@ Email: grzegorz.orzechowski@lut.fi · Phone: +358 50 431 0717</p>
 <li>GitHub: <em><a href="https://github.com/gorzech" target="_blank">link</a></em></li>
 <li>LUT profile: <em><a href="https://www.lut.fi/en/profiles/grzegorz-orzechowski" target="_blank">link</a></em></li>
 </ul>
-<!-- ---
+<!--
+---
 
-## CV
+## Selected projects
 
-- Download: [CV PDF](files/cv.pdf) -->
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### Project title A
+Problem → your contribution → outcome.  
+Links: [paper](#) · [code](#) · [demo](#)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Project title B
+Problem → your contribution → outcome.  
+Links: [paper](#) · [code](#) · [dataset](#)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Project title C
+Problem → your contribution → outcome.  
+Links: [paper](#) · [code](#)
+:::
+:::
+
+---
+
+## Selected publications
+- @orzechowski2023twins
+- @orzechowski2022sim2real
+- @orzechowski2021mbd
+-->
 
 
 </section>
