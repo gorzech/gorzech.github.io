@@ -1,1 +1,1 @@
-Sitemap: https://gorzech.github.io/sitemap.xml
+Sitemap: https://gregdynamics.com/sitemap.xml

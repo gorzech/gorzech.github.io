@@ -1,9 +1,6 @@
 /* css styles */
-.cv-compact ul {
-  margin-top: 0.2rem;
-  margin-bottom: 0.2rem;
-}
 
-.cv-compact ul + ul {
-  margin-top: 0;
+/* Tighten list spacing in CV sections that render loose lists */
+.cv-tight-list li > p {
+  margin: 0;
 }
