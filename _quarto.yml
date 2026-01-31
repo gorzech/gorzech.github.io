@@ -32,6 +32,6 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-in-header: _includes/head.html
     toc: false
-
 
