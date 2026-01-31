@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - CNAME
 
 website:
   title: "Grzegorz Orzechowski"
@@ -34,4 +36,3 @@ format:
     css: styles.css
     include-in-header: _includes/head.html
     toc: false
-
