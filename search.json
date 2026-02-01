@@ -112,27 +112,6 @@
     "text": "Content coming soon.\n\n\n\n\n\nReferences\n\nOrzechowski, Grzegorz. 2021. “Flexible Multibody Dynamics in TODO.” International Journal of TODO.\n\n\nOrzechowski, Grzegorz, and Jane Doe. 2023. “Digital Twin Modeling for TODO Systems.” Journal of TODO.\n\n\nOrzechowski, Grzegorz, and John Smith. 2022. “Sim-to-Real Workflow for TODO.” In Proceedings of TODO."
   },
   {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "Grzegorz Orzechowski",
-    "section": "",
-    "text": "Copyright (c) 2023 Grzegorz Orzechowski\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
-  },
-  {
-    "objectID": "events/index.html",
-    "href": "events/index.html",
-    "title": "Events",
-    "section": "",
-    "text": "Content coming soon."
-  },
-  {
-    "objectID": "events/symposium2026/index.html",
-    "href": "events/symposium2026/index.html",
-    "title": "Symposium 2026",
-    "section": "",
-    "text": "Content coming soon."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Grzegorz Orzechowski",
@@ -151,7 +130,7 @@
     "href": "index.html#research",
     "title": "Grzegorz Orzechowski",
     "section": "Research",
-    "text": "Research\nCore areas\n\nMultibody dynamics & flexible multibody simulation\nDigital twins for machinery and robotics\nSim-to-real workflows and data-driven modeling\n\nSustainable Mechatronics @ LUT Lahti\n\nSustainable Mechatronics\nLocated at LUT Lahti. The only mechanical engineering outpost of LUT. Custom designs, industrial applications, virtual engineering, and value offer via operational digital twins.\nWe develop simulation and digital twin methods for autonomous and human-aware machinery, including:\n\nmultibody and hydraulic system modeling\nsim-to-real workflows\ndata-driven surrogate models\nhuman/environment modeling for safety\n\nSelected domains: logistics, healthcare, forestry, construction, non-road mobile machinery."
+    "text": "Research\nCore areas\n\nMultibody dynamics & flexible multibody simulation\nDigital twins for machinery and robotics\nSim-to-real workflows and data-driven modeling\n\nI lead the Sustainable Mechatronics lab at LUT Lahti, focusing on mechanics-first autonomy, simulation, and digital twins for non-road machinery.\n→ Lab overview"
   },
   {
     "objectID": "index.html#selected-links",
@@ -159,6 +138,83 @@
     "title": "Grzegorz Orzechowski",
     "section": "Selected links",
     "text": "Selected links\n\nGoogle Scholar: link\nORCID: link\nGitHub: link\nLUT profile: link"
+  },
+  {
+    "objectID": "events/symposium2026/index.html",
+    "href": "events/symposium2026/index.html",
+    "title": "Symposium 2026",
+    "section": "",
+    "text": "Content coming soon."
+  },
+  {
+    "objectID": "events/index.html",
+    "href": "events/index.html",
+    "title": "Events",
+    "section": "",
+    "text": "Content coming soon."
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Grzegorz Orzechowski",
+    "section": "",
+    "text": "Copyright (c) 2023 Grzegorz Orzechowski\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "lab/index.html",
+    "href": "lab/index.html",
+    "title": "Sustainable Mechatronics Lab",
+    "section": "",
+    "text": "Located at LUT Lahti. The only mechanical engineering outpost of LUT. Custom designs, industrial applications, virtual engineering, and value offer via operational digital twins.\nWe develop simulation and digital twin methods for autonomous and human-aware machinery, including:\n\nmultibody and hydraulic system modeling\nsim-to-real workflows\ndata-driven surrogate models\nhuman/environment modeling for safety\n\nSelected domains: logistics, healthcare, forestry, construction, non-road mobile machinery."
+  },
+  {
+    "objectID": "lab/index.html#overview",
+    "href": "lab/index.html#overview",
+    "title": "Sustainable Mechatronics Lab",
+    "section": "",
+    "text": "Located at LUT Lahti. The only mechanical engineering outpost of LUT. Custom designs, industrial applications, virtual engineering, and value offer via operational digital twins.\nWe develop simulation and digital twin methods for autonomous and human-aware machinery, including:\n\nmultibody and hydraulic system modeling\nsim-to-real workflows\ndata-driven surrogate models\nhuman/environment modeling for safety\n\nSelected domains: logistics, healthcare, forestry, construction, non-road mobile machinery."
+  },
+  {
+    "objectID": "lab/index.html#mission",
+    "href": "lab/index.html#mission",
+    "title": "Sustainable Mechatronics Lab",
+    "section": "Mission",
+    "text": "Mission\n\nAdvance mechanics-first autonomy for non-road machinery.\nBuild reliable simulation and digital twin workflows for real-world operations.\nDeliver practical, safe, and deployable solutions with industry partners.\nConnect modeling, data, and lifecycle thinking across design and operations."
+  },
+  {
+    "objectID": "lab/index.html#research-themes",
+    "href": "lab/index.html#research-themes",
+    "title": "Sustainable Mechatronics Lab",
+    "section": "Research themes",
+    "text": "Research themes\n\nMultibody and hydraulic system modeling\nSim-to-real workflows\nData-driven surrogate models\nHuman/environment modeling for safety\nLifecycle/operations-focused digital twins"
+  },
+  {
+    "objectID": "lab/index.html#domains",
+    "href": "lab/index.html#domains",
+    "title": "Sustainable Mechatronics Lab",
+    "section": "Domains",
+    "text": "Domains\nLogistics, healthcare, forestry, construction, non-road mobile machinery."
+  },
+  {
+    "objectID": "lab/index.html#projects-and-partners",
+    "href": "lab/index.html#projects-and-partners",
+    "title": "Sustainable Mechatronics Lab",
+    "section": "Projects and partners",
+    "text": "Projects and partners\nSelected projects and partners are listed on the Projects page.\n→ Projects"
+  },
+  {
+    "objectID": "lab/index.html#open-positions",
+    "href": "lab/index.html#open-positions",
+    "title": "Sustainable Mechatronics Lab",
+    "section": "Open positions",
+    "text": "Open positions\nIf you are interested in MSc/PhD positions or research collaboration, please reach out.\nEmail: grzegorz.orzechowski@lut.fi"
+  },
+  {
+    "objectID": "lab/index.html#events-and-links",
+    "href": "lab/index.html#events-and-links",
+    "title": "Sustainable Mechatronics Lab",
+    "section": "Events and links",
+    "text": "Events and links\nLinks to lab-related events are on the Events page.\n→ Events"
   },
   {
     "objectID": "atoms/profiles/greg.html",
