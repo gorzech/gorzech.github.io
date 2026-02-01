@@ -11,6 +11,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: lab/index.qmd
+        text: Lab
       - href: projects.qmd
         text: Projects
       - href: publications.qmd

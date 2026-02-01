@@ -1,0 +1,56 @@
+---
+title: "Sustainable Mechatronics Lab"
+format:
+  html:
+    toc: false
+---
+
+## Overview
+
+{{< include /atoms/profiles/research-group.md >}}
+
+---
+
+## Mission
+
+- Advance mechanics-first autonomy for non-road machinery.
+- Build reliable simulation and digital twin workflows for real-world operations.
+- Deliver practical, safe, and deployable solutions with industry partners.
+- Connect modeling, data, and lifecycle thinking across design and operations.
+
+---
+
+## Research themes
+
+- Multibody and hydraulic system modeling
+- Sim-to-real workflows
+- Data-driven surrogate models
+- Human/environment modeling for safety
+- Lifecycle/operations-focused digital twins
+
+---
+
+## Domains
+
+Logistics, healthcare, forestry, construction, non-road mobile machinery.
+
+---
+
+## Projects and partners
+
+Selected projects and partners are listed on the Projects page.  
+→ *[Projects](/projects.qmd)*
+
+---
+
+## Open positions
+
+If you are interested in MSc/PhD positions or research collaboration, please reach out.  
+Email: grzegorz.orzechowski@lut.fi
+
+---
+
+## Events and links
+
+Links to lab-related events are on the Events page.  
+→ *[Events](/events/index.qmd)*

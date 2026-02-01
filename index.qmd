@@ -38,9 +38,9 @@ Email: grzegorz.orzechowski@lut.fi
 - Digital twins for machinery and robotics
 - Sim-to-real workflows and data-driven modeling
 
-**Sustainable Mechatronics @ LUT Lahti**  
+I lead the **Sustainable Mechatronics** lab at LUT Lahti, focusing on mechanics-first autonomy, simulation, and digital twins for non-road machinery.
 
-{{< include /atoms/profiles/research-group.md >}}
+→ *[Lab overview](/lab/)*
 
 ---
 
