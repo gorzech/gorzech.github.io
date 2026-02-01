@@ -109,7 +109,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Content coming soon.\n\n\n\n\n\nReferences\n\nOrzechowski, Grzegorz. 2021. “Flexible Multibody Dynamics in TODO.” International Journal of TODO.\n\n\nOrzechowski, Grzegorz, and Jane Doe. 2023. “Digital Twin Modeling for TODO Systems.” Journal of TODO.\n\n\nOrzechowski, Grzegorz, and John Smith. 2022. “Sim-to-Real Workflow for TODO.” In Proceedings of TODO."
+    "text": "Han, Seongji, Grzegorz Orzechowski, Jin-Gyun Kim, and Aki Mikkola. 2024. “Data-Driven Friction Force Prediction Model for Hydraulic Actuators Using Deep Neural Networks.” Mechanism and Machine Theory 192: 105545. https://doi.org/10.1016/j.mechmachtheory.2023.105545.\n\n\nKhadim, Qasim, Peter Manzl, Emil Kurvinen, Aki Mikkola, Grzegorz Orzechowski, and Johannes Gerstmayr. 2025. “Real-Time Structural Dynamics Estimation in Hydraulically Actuated Systems Using 3D Flexible Multibody Simulation and SLIDE Networks.” Mechanical Systems and Signal Processing 240: 113220. https://doi.org/10.1016/j.ymssp.2025.113220.\n\n\nManzl, Peter, Oleg Rogov, Johannes Gerstmayr, Aki Mikkola, and Grzegorz Orzechowski. 2025. “Reliability Evaluation of Reinforcement Learning Methods for Mechanical Systems with Increasing Complexity.” Multibody System Dynamics 64: 335–59. https://doi.org/10.1007/s11044-023-09960-2."
+  },
+  {
+    "objectID": "publications.html#selected-journal-publications",
+    "href": "publications.html#selected-journal-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Han, Seongji, Grzegorz Orzechowski, Jin-Gyun Kim, and Aki Mikkola. 2024. “Data-Driven Friction Force Prediction Model for Hydraulic Actuators Using Deep Neural Networks.” Mechanism and Machine Theory 192: 105545. https://doi.org/10.1016/j.mechmachtheory.2023.105545.\n\n\nKhadim, Qasim, Peter Manzl, Emil Kurvinen, Aki Mikkola, Grzegorz Orzechowski, and Johannes Gerstmayr. 2025. “Real-Time Structural Dynamics Estimation in Hydraulically Actuated Systems Using 3D Flexible Multibody Simulation and SLIDE Networks.” Mechanical Systems and Signal Processing 240: 113220. https://doi.org/10.1016/j.ymssp.2025.113220.\n\n\nManzl, Peter, Oleg Rogov, Johannes Gerstmayr, Aki Mikkola, and Grzegorz Orzechowski. 2025. “Reliability Evaluation of Reinforcement Learning Methods for Mechanical Systems with Increasing Complexity.” Multibody System Dynamics 64: 335–59. https://doi.org/10.1007/s11044-023-09960-2."
   },
   {
     "objectID": "index.html",
