@@ -8,6 +8,7 @@ vendor
 /site_libs/
 
 /.vscode/
+**/__pycache__/
 
 # Ignore latex files when they arise. 
 *.aux

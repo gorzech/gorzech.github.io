@@ -2,6 +2,8 @@ project:
   type: website
   resources:
     - CNAME
+  pre-render:
+    - python3 scripts/gen_publications.py
 
 website:
   title: "Grzegorz Orzechowski"

@@ -2,14 +2,12 @@
 title: "Publications"
 bibliography: publications.bib
 nocite: |
-  @*
+  @Manzl_Rogov_Gerstmayr_Mikkola_Orzechowski_2025
+  @Khadim_Manzl_Kurvinen_Mikkola_Orzechowski_Gerstmayr_2025
+  @Han_Orzechowski_Kim_Mikkola_2024
 ---
 
-Content coming soon.
-
-<!--
-## Publications
+## Selected Journal Publications
 
 ::: {#refs}
 :::
--->
