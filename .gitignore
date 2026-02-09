@@ -17,3 +17,6 @@ vendor
 *.log
 *.synctex*
 cv-rcf-pdf.tex
+
+# ignore macos noise
+.DS_Store

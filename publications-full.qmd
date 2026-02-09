@@ -1,0 +1,11 @@
+---
+title: "Publications (Full List)"
+bibliography: publications.bib
+nocite: |
+  @*
+---
+
+This list is generated automatically from `publications.bib` and is currently being completed.
+
+::: {#refs}
+:::
