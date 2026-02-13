@@ -1,8 +1,53 @@
 from __future__ import annotations
 
+import re
+import unicodedata
+
 
 AUTO_START = "<!-- AUTO-GENERATED:START -->"
 AUTO_END = "<!-- AUTO-GENERATED:END -->"
+
+
+ACCENT_MARKS = {
+    "`": "\u0300",   # grave
+    "'": "\u0301",   # acute
+    "^": "\u0302",   # circumflex
+    "~": "\u0303",   # tilde
+    "=": "\u0304",   # macron
+    "u": "\u0306",   # breve
+    ".": "\u0307",   # dot above
+    '"': "\u0308",   # diaeresis
+    "r": "\u030A",   # ring above
+    "H": "\u030B",   # double acute
+    "v": "\u030C",   # caron
+    "c": "\u0327",   # cedilla
+    "k": "\u0328",   # ogonek
+}
+
+
+def decode_latex_accents(value: str) -> str:
+    text = value
+
+    # Handle accent commands such as \v{s}, \v s, \'a, and variants with spaces.
+    pattern = re.compile(r"\\([`'^~=.urHvck\"])\s*(?:\{\s*([A-Za-z])\s*\}|([A-Za-z]))")
+
+    def replace_accent(match: re.Match[str]) -> str:
+        accent_cmd = match.group(1)
+        letter = match.group(2) or match.group(3) or ""
+        combining = ACCENT_MARKS.get(accent_cmd)
+        if not combining or not letter:
+            return match.group(0)
+        return unicodedata.normalize("NFC", letter + combining)
+
+    text = pattern.sub(replace_accent, text)
+    text = text.replace(r"\ss", "ß")
+    text = text.replace("{", "").replace("}", "")
+    return text
+
+
+def clean_title(value: str) -> str:
+    text = decode_latex_accents(value)
+    return text.strip()
 
 
 def format_authors(value: str) -> str:
@@ -11,7 +56,7 @@ def format_authors(value: str) -> str:
     raw_parts = [part.strip() for part in value.replace("\n", " ").split(" and ") if part.strip()]
 
     def normalize_author(author: str) -> str:
-        compact = " ".join(author.split())
+        compact = decode_latex_accents(" ".join(author.split()))
         if "," in compact:
             chunks = [chunk.strip() for chunk in compact.split(",") if chunk.strip()]
             if len(chunks) == 2:
@@ -33,7 +78,7 @@ def format_authors(value: str) -> str:
 def format_entry(entry: dict[str, str]) -> str:
     fields = entry["fields"]
     authors = format_authors(fields.get("author", ""))
-    title = fields.get("title", "")
+    title = clean_title(fields.get("title", ""))
     venue = fields.get("journal") or fields.get("booktitle") or fields.get("publisher") or ""
     year = fields.get("year", "")
     doi = fields.get("doi", "")
@@ -102,4 +147,3 @@ def replace_block(text: str, generated: str) -> str:
     before, remainder = text.split(AUTO_START, 1)
     _, after = remainder.split(AUTO_END, 1)
     return f"{before}{AUTO_START}\n\n{generated}\n{AUTO_END}{after}"
-

@@ -2,8 +2,6 @@
 title: "Publications (Full List)"
 ---
 
-This list is generated automatically from `publications.bib` and is currently being completed.
-
 <!-- AUTO-GENERATED:START -->
 
 ### Journal articles
@@ -12,9 +10,15 @@ Tomáš Poštulka, Daniel Huczala, Grzegorz Orzechowski, Aki Mikkola, Zdenko Bob
 
 Peter Manzl, Oleg Rogov, Johannes Gerstmayr, Aki Mikkola, and Grzegorz Orzechowski. "Reliability evaluation of reinforcement learning methods for mechanical systems with increasing complexity." *Multibody System Dynamics*. 2025. [DOI](https://doi.org/10.1007/s11044-023-09960-2)
 
-Qasim Khadim, Peter Manzl, Emil Kurvinen, Aki Mikkola, Grzegorz Orzechowski, and Johannes Gerstmayr. "Real-time structural dynamics estimation in hydraulically actuated systems using 3D flexible multibody simulation and SLIDE networks." *Mechanical Systems and Signal Processing*. 2025. [PDF](/assets/publications/2025-Khadim-Real-time.pdf) [DOI](https://doi.org/10.1016/j.ymssp.2025.113220)
+Qasim Khadim, Peter Manzl, Emil Kurvinen, Aki Mikkola, Grzegorz Orzechowski, and Johannes Gerstmayr. "Real-time structural dynamics estimation in hydraulically actuated systems using 3D flexible multibody simulation and SLIDE networks." *Mechanical Systems and Signal Processing*. 2025. [DOI](https://doi.org/10.1016/j.ymssp.2025.113220)
+
+Yixuan Tang, Grzegorz Orzechowski, Aleš Prokop, and Aki Mikkola. "Monte Carlo Tree Search Control Scheme for Multibody Dynamics Applications." *Nonlinear Dynamics*. 2024. [DOI](https://doi.org/10.1007/s11071-024-09509-8)
+
+Qasim Khadim, Emil Kurvinen, Aki Mikkola, and Grzegorz Orzechowski. "Simulation-Driven Universal Surrogates of Coupled Mechanical Systems: Real-Time Simulation of a Forestry Crane." *Journal of Computational and Nonlinear Dynamics*. 2024. [DOI](https://doi.org/10.1115/1.4065015)
 
 Seongji Han, Grzegorz Orzechowski, Jin-Gyun Kim, and Aki Mikkola. "Data-driven friction force prediction model for hydraulic actuators using deep neural networks." *Mechanism and Machine Theory*. 2024. [DOI](https://doi.org/10.1016/j.mechmachtheory.2023.105545)
+
+Arash Hashemi, Grzegorz Orzechowski, Aki Mikkola, and John McPhee. "Multibody Dynamics and Control Using Machine Learning." *Multibody System Dynamics*. 2023. [DOI](https://doi.org/10.1007/s11044-023-09884-x)
 
 
 ### Conference papers
