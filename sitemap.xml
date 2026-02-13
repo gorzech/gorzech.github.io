@@ -1,95 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gregdynamics.com/cv/index.html</loc>
-    <lastmod>2026-02-01T20:44:23.492Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/projects.html</loc>
-    <lastmod>2026-02-01T20:44:23.493Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/cv/awards.html</loc>
-    <lastmod>2026-02-01T20:44:24.257Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/cv/output.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/cv/current-employment.html</loc>
-    <lastmod>2026-02-01T20:44:24.257Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/cv/other.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/cv/impact.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/cv/previous-employment.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/profiles/research-group.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/publications.html</loc>
-    <lastmod>2026-02-01T20:44:23.493Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/index.html</loc>
-    <lastmod>2026-02-01T20:44:23.493Z</lastmod>
+    <loc>https://gregdynamics.com/publications-full.html</loc>
+    <lastmod>2026-02-13T22:42:11.039Z</lastmod>
   </url>
   <url>
     <loc>https://gregdynamics.com/events/symposium2026/index.html</loc>
-    <lastmod>2026-02-01T20:44:23.493Z</lastmod>
+    <lastmod>2026-02-13T22:41:53.382Z</lastmod>
   </url>
   <url>
-    <loc>https://gregdynamics.com/events/index.html</loc>
-    <lastmod>2026-02-01T20:44:23.493Z</lastmod>
+    <loc>https://gregdynamics.com/publications.html</loc>
+    <lastmod>2026-02-13T22:42:11.039Z</lastmod>
   </url>
   <url>
-    <loc>https://gregdynamics.com/LICENSE.html</loc>
-    <lastmod>2026-02-01T20:44:23.491Z</lastmod>
+    <loc>https://gregdynamics.com/atoms/profiles/research-group.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
   </url>
   <url>
-    <loc>https://gregdynamics.com/lab/index.html</loc>
-    <lastmod>2026-02-01T20:44:23.493Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/profiles/greg.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/cv/funding.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/cv/supervision-leadership.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/cv/teaching.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gregdynamics.com/atoms/cv/career-breaks.html</loc>
-    <lastmod>2026-02-01T20:44:24.257Z</lastmod>
+    <loc>https://gregdynamics.com/atoms/cv/output.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
   </url>
   <url>
     <loc>https://gregdynamics.com/atoms/cv/degrees.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/atoms/cv/current-employment.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/atoms/cv/teaching.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/atoms/cv/previous-employment.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/atoms/cv/career-breaks.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/projects.html</loc>
+    <lastmod>2026-02-13T22:41:53.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/index.html</loc>
+    <lastmod>2026-02-13T22:41:53.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/cv/index.html</loc>
+    <lastmod>2026-02-13T22:41:53.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/LICENSE.html</loc>
+    <lastmod>2026-02-13T22:41:53.381Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/atoms/cv/funding.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/atoms/cv/awards.html</loc>
+    <lastmod>2026-02-13T22:41:53.709Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/atoms/cv/supervision-leadership.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/atoms/cv/impact.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
   </url>
   <url>
     <loc>https://gregdynamics.com/atoms/cv/other-academic-merits.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/atoms/cv/other.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
   </url>
   <url>
     <loc>https://gregdynamics.com/atoms/cv/personal-details.html</loc>
-    <lastmod>2026-02-01T20:44:24.258Z</lastmod>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/atoms/profiles/greg.html</loc>
+    <lastmod>2026-02-13T22:41:53.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/events/index.html</loc>
+    <lastmod>2026-02-13T22:41:53.382Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gregdynamics.com/lab/index.html</loc>
+    <lastmod>2026-02-13T22:41:53.382Z</lastmod>
   </url>
 </urlset>
