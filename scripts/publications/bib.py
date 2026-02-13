@@ -120,8 +120,9 @@ def is_selected(body: str) -> bool:
 
 
 def year_value(body: str) -> int:
-    match = re.search(r'(?i)\byear\s*=\s*[{"]\s*(\d{4})\s*[}"]', body)
-    return int(match.group(1)) if match else 0
+    fields = parse_fields(body)
+    year = fields.get("year", "").strip()
+    return int(year) if year.isdigit() else 0
 
 
 def category_for(entry_type: str) -> str:
@@ -169,4 +170,3 @@ def validate_entries(entries: list[dict[str, str]]) -> tuple[list[str], list[str
     if duplicates:
         errors.append(f"Duplicate BibTeX keys: {', '.join(sorted(duplicates))}")
     return errors, warnings
-

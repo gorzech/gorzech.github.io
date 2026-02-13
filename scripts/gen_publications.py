@@ -6,11 +6,14 @@ import sys
 from pathlib import Path
 
 from publications.bib import enrich_entries, is_selected, parse_entries, validate_entries
-from publications.render import format_entry, render_sections, replace_block, sort_entries
+from publications.render import format_entry, render_sections, sort_entries
 
 BIB_PATH = Path("publications.bib")
 PUB_QMD = Path("publications.qmd")
 PUB_FULL_QMD = Path("publications-full.qmd")
+GENERATED_DIR = Path("generated")
+SELECTED_OUT = GENERATED_DIR / "publications-selected.md"
+FULL_OUT = GENERATED_DIR / "publications-full.md"
 
 
 def main() -> int:
@@ -49,15 +52,13 @@ def main() -> int:
     selected_block = render_sections(selected_entries)
     full_block = render_sections(all_entries)
 
-    pub_text = PUB_QMD.read_text(encoding="utf-8")
-    new_pub_text = replace_block(pub_text, selected_block)
-    if new_pub_text != pub_text:
-        PUB_QMD.write_text(new_pub_text, encoding="utf-8")
+    GENERATED_DIR.mkdir(parents=True, exist_ok=True)
 
-    pub_full_text = PUB_FULL_QMD.read_text(encoding="utf-8")
-    new_pub_full_text = replace_block(pub_full_text, full_block)
-    if new_pub_full_text != pub_full_text:
-        PUB_FULL_QMD.write_text(new_pub_full_text, encoding="utf-8")
+    if not SELECTED_OUT.exists() or SELECTED_OUT.read_text(encoding="utf-8") != selected_block:
+        SELECTED_OUT.write_text(selected_block, encoding="utf-8")
+
+    if not FULL_OUT.exists() or FULL_OUT.read_text(encoding="utf-8") != full_block:
+        FULL_OUT.write_text(full_block, encoding="utf-8")
     return 0
 
 
