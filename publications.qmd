@@ -1,15 +1,19 @@
 ---
 title: "Publications"
-bibliography: publications.bib
-nocite: |
-  @Manzl_Rogov_Gerstmayr_Mikkola_Orzechowski_2025
-  @Khadim_Manzl_Kurvinen_Mikkola_Orzechowski_Gerstmayr_2025
-  @Han_Orzechowski_Kim_Mikkola_2024
 ---
 
-## Selected Journal Publications
+## Selected publications
 
 Full list: [all publications](publications-full.qmd)
 
-::: {#refs}
-:::
+<!-- AUTO-GENERATED:START -->
+
+### Journal articles
+
+Peter Manzl, Oleg Rogov, Johannes Gerstmayr, Aki Mikkola, and Grzegorz Orzechowski. "Reliability evaluation of reinforcement learning methods for mechanical systems with increasing complexity." *Multibody System Dynamics*. 2025. [DOI](https://doi.org/10.1007/s11044-023-09960-2)
+
+Qasim Khadim, Peter Manzl, Emil Kurvinen, Aki Mikkola, Grzegorz Orzechowski, and Johannes Gerstmayr. "Real-time structural dynamics estimation in hydraulically actuated systems using 3D flexible multibody simulation and SLIDE networks." *Mechanical Systems and Signal Processing*. 2025. [PDF](/assets/publications/2025-Khadim-Real-time.pdf) [DOI](https://doi.org/10.1016/j.ymssp.2025.113220)
+
+Seongji Han, Grzegorz Orzechowski, Jin-Gyun Kim, and Aki Mikkola. "Data-driven friction force prediction model for hydraulic actuators using deep neural networks." *Mechanism and Machine Theory*. 2024. [DOI](https://doi.org/10.1016/j.mechmachtheory.2023.105545)
+
+<!-- AUTO-GENERATED:END -->

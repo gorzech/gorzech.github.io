@@ -1,11 +1,24 @@
 ---
 title: "Publications (Full List)"
-bibliography: publications.bib
-nocite: |
-  @*
 ---
 
 This list is generated automatically from `publications.bib` and is currently being completed.
 
-::: {#refs}
-:::
+<!-- AUTO-GENERATED:START -->
+
+### Journal articles
+
+Tomáš Poštulka, Daniel Huczala, Grzegorz Orzechowski, Aki Mikkola, Zdenko Bobovský, and Róbert Huňady. "Reducing Energy Consumption in Robotic Processes Using a Single-DOF Bennett Mechanism." *IEEE Access*. 2025. [DOI](https://doi.org/10.1109/ACCESS.2025.3646349)
+
+Peter Manzl, Oleg Rogov, Johannes Gerstmayr, Aki Mikkola, and Grzegorz Orzechowski. "Reliability evaluation of reinforcement learning methods for mechanical systems with increasing complexity." *Multibody System Dynamics*. 2025. [DOI](https://doi.org/10.1007/s11044-023-09960-2)
+
+Qasim Khadim, Peter Manzl, Emil Kurvinen, Aki Mikkola, Grzegorz Orzechowski, and Johannes Gerstmayr. "Real-time structural dynamics estimation in hydraulically actuated systems using 3D flexible multibody simulation and SLIDE networks." *Mechanical Systems and Signal Processing*. 2025. [PDF](/assets/publications/2025-Khadim-Real-time.pdf) [DOI](https://doi.org/10.1016/j.ymssp.2025.113220)
+
+Seongji Han, Grzegorz Orzechowski, Jin-Gyun Kim, and Aki Mikkola. "Data-driven friction force prediction model for hydraulic actuators using deep neural networks." *Mechanism and Machine Theory*. 2024. [DOI](https://doi.org/10.1016/j.mechmachtheory.2023.105545)
+
+
+### Conference papers
+
+Grzegorz Orzechowski, Aki M. Mikkola, and José L. Escalona. "Co-Simulation Procedure for Multibody Reeving Systems." *Proceedings of the ASME 2018 International Design Engineering Technical Conferences & Computers and Information in Engineering Conference IDETC/CIE 2018*. 2018.
+
+<!-- AUTO-GENERATED:END -->

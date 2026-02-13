@@ -16,6 +16,16 @@ jobs:
         with:
           submodules: recursive
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        run: make test
+
+      - name: Validate publications source
+        run: make check
+
       - uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Cache TinyTeX
