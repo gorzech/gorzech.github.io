@@ -26,6 +26,9 @@ jobs:
       - name: Validate publications source
         run: make check
 
+      - name: Generate publications includes
+        run: make gen-pubs
+
       - uses: quarto-dev/quarto-actions/setup@v2
 
       - name: Cache TinyTeX

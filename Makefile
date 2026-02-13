@@ -8,8 +8,8 @@ help:
 	@echo "  make test      - run unit tests"
 	@echo "  make check     - validate publications.bib"
 	@echo "  make gen-pubs  - regenerate publication pages"
-	@echo "  make render    - render full Quarto site"
-	@echo "  make preview   - start local Quarto preview server"
+	@echo "  make render    - generate publications and render full Quarto site"
+	@echo "  make preview   - generate publications and start local Quarto preview"
 	@echo "  make clean     - remove local _site output"
 
 test:
@@ -21,10 +21,10 @@ check:
 gen-pubs:
 	$(PYTHON) scripts/gen_publications.py
 
-render:
+render: gen-pubs
 	$(QUARTO) render
 
-preview:
+preview: gen-pubs
 	$(QUARTO) preview --no-browser
 
 clean:
