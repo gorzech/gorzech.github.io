@@ -121,14 +121,72 @@ def sort_entries(entries: list[dict[str, str]]) -> list[dict[str, str]]:
     return sorted_entries
 
 
-def render_sections(entries: list[dict[str, str]]) -> str:
+def display_section_title(section: str, include_section_codes: bool) -> str:
+    if include_section_codes:
+        return section
+    return re.sub(r"^[A-Z]\.\s*", "", section).strip()
+
+
+def render_sections(entries: list[dict[str, str]], include_section_codes: bool = False) -> str:
+    lines: list[str] = []
+
+    section_order = [
+        "A. Refereed Scientific Articles",
+        "B. Non-Refereed Scientific Articles",
+        "C. Scientific Books (Monographs)",
+        "G. Theses",
+    ]
+    subsection_order = {
+        "A. Refereed Scientific Articles": [
+            "Journal Articles",
+            "Book Sections",
+            "Conference Proceedings",
+        ],
+        "C. Scientific Books (Monographs)": ["Special Issue of a Journal"],
+    }
+
+    section_entries = [entry for entry in entries if entry.get("funder_section")]
+    for section in section_order:
+        in_section = [entry for entry in section_entries if entry.get("funder_section") == section]
+        if not in_section:
+            continue
+
+        lines.append(f"### {display_section_title(section, include_section_codes)}")
+        lines.append("")
+
+        ordered_subsections = subsection_order.get(section, [])
+        with_subsection = [entry for entry in in_section if entry.get("funder_subsection")]
+        used_keys: set[str] = set()
+
+        for subsection in ordered_subsections:
+            subsection_items = [
+                entry for entry in with_subsection if entry.get("funder_subsection") == subsection
+            ]
+            if not subsection_items:
+                continue
+            lines.append(f"#### {subsection}")
+            lines.append("")
+            for item in subsection_items:
+                lines.append(item["formatted"])
+                lines.append("")
+                used_keys.add(item["key"])
+            lines.append("")
+
+        remaining = [entry for entry in in_section if entry["key"] not in used_keys]
+        for item in remaining:
+            lines.append(item["formatted"])
+            lines.append("")
+        if remaining:
+            lines.append("")
+
+    # Fallback rendering for entries without explicit funder sections.
+    uncategorized = [entry for entry in entries if not entry.get("funder_section")]
     grouped: dict[str, list[dict[str, str]]] = {}
-    for entry in entries:
+    for entry in uncategorized:
         grouped.setdefault(entry["category"], []).append(entry)
 
-    order = ["Journal articles", "Conference papers", "Book chapters", "Theses", "Other"]
-    lines: list[str] = []
-    for category in order:
+    category_order = ["Journal articles", "Conference papers", "Book chapters", "Theses", "Other"]
+    for category in category_order:
         items = grouped.get(category, [])
         if not items:
             continue

@@ -143,8 +143,24 @@ def enrich_entries(entries: list[dict[str, str]]) -> list[dict[str, str]]:
     for entry in entries:
         item = dict(entry)
         fields = parse_fields(item["body"])
+        entry_type = item["type"].lower()
+        default_section = ""
+        default_subsection = ""
+        if entry_type == "article":
+            default_section = "A. Refereed Scientific Articles"
+            default_subsection = "Journal Articles"
+        elif entry_type in {"inproceedings", "proceedings"}:
+            default_section = "A. Refereed Scientific Articles"
+            default_subsection = "Conference Proceedings"
+        elif entry_type in {"incollection", "inbook", "bookchapter"}:
+            default_section = "A. Refereed Scientific Articles"
+            default_subsection = "Book Sections"
+        elif entry_type in {"phdthesis", "mastersthesis", "bachelorthesis", "thesis"}:
+            default_section = "G. Theses"
         item["fields"] = fields
         item["category"] = category_for(item["type"])
+        item["funder_section"] = fields.get("funder_section", "").strip() or default_section
+        item["funder_subsection"] = fields.get("funder_subsection", "").strip() or default_subsection
         item["year"] = fields.get("year") or ""
         enriched.append(item)
     return enriched

@@ -10,7 +10,8 @@ SCRIPTS_DIR = ROOT / "scripts"
 if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
 
-from publications.render import format_authors, format_entry, sort_entries  # noqa: E402
+from publications.bib import enrich_entries  # noqa: E402
+from publications.render import format_authors, format_entry, render_sections, sort_entries  # noqa: E402
 
 
 class TestFormatAuthors(unittest.TestCase):
@@ -71,6 +72,50 @@ class TestFormatEntry(unittest.TestCase):
         }
         rendered = format_entry(entry)
         self.assertIn("\"Model of Aleš system.\"", rendered)
+
+
+class TestRenderSections(unittest.TestCase):
+    def test_renders_funder_sections_without_codes_by_default(self) -> None:
+        entries = enrich_entries(
+            [
+                {
+                    "type": "article",
+                    "key": "paper1",
+                    "body": """
+author = {Doe, Jane},
+title = {Paper},
+journal = {Journal},
+year = {2025},
+funder_section = {B. Non-Refereed Scientific Articles}
+""",
+                }
+            ]
+        )
+        entries[0]["formatted"] = format_entry(entries[0])
+        rendered = render_sections(entries)
+        self.assertIn("### Non-Refereed Scientific Articles", rendered)
+        self.assertNotIn("### B. Non-Refereed Scientific Articles", rendered)
+        self.assertNotIn("### Journal articles", rendered)
+
+    def test_can_render_funder_sections_with_codes(self) -> None:
+        entries = enrich_entries(
+            [
+                {
+                    "type": "article",
+                    "key": "paper1",
+                    "body": """
+author = {Doe, Jane},
+title = {Paper},
+journal = {Journal},
+year = {2025},
+funder_section = {B. Non-Refereed Scientific Articles}
+""",
+                }
+            ]
+        )
+        entries[0]["formatted"] = format_entry(entries[0])
+        rendered = render_sections(entries, include_section_codes=True)
+        self.assertIn("### B. Non-Refereed Scientific Articles", rendered)
 
 
 if __name__ == "__main__":
