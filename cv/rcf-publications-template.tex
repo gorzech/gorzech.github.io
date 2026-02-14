@@ -1,0 +1,92 @@
+%%
+%%   THIS IS THE LaTeX CV TEMPLATE OF THE RESEARCH COUNCIL OF FINLAND.
+%%
+%%    THE STYLE AND HEADERS HAVE BEEN PRESET ACCORDING TO THE RESEARCH COUNCIL RULES. 
+%%
+%% changes made to the template in spring 2024 
+%% - removed obsolete package inputenc
+%% - removed old package lastpage (replaced by manual page counter)
+%%
+\documentclass[a4paper,12pt]{article}
+
+% Language support (including Nordic letters)
+\usepackage[T1]{fontenc}  
+\usepackage[english]{babel}
+
+% Math support
+\usepackage[intlimits]{amsmath}
+\usepackage{amsthm}
+
+% Symbol support
+\usepackage{amssymb}
+\usepackage{eurosym}
+
+% Enabling pdf
+\usepackage[pdftex]{graphicx}
+\usepackage{xcolor}
+
+% Item list extras for reduced spacing between items
+\usepackage{enumitem}
+\setlist{nosep}
+
+% Hyperlink support (only for external hyperlinks) 
+\usepackage[implicit=false]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    urlcolor=blue,
+}
+
+%% N.B. YOU MAY ALSO ADD YOUR OWN LaTeX PACKAGES HERE. NOTE THAT THE PACKAGES CANNOT BE IN CONFLICT WITH OR OVERRUN THE TEMPLATE SETTINGS SET BY THE RESEARCH COUNCIL OF FINLAND. 
+ 
+%-----------------------------------------------------
+% ACADEMY SETTINGS: DO NOT ALTER THESE SETTINGS!
+%-----------------------------------------------------
+
+% Instruction text definition. 
+% \newcommand{\instructions}[1]{\textcolor{gray}{#1}}
+\newcommand{\instructions}[1]{{}}
+
+% ONLY CALIBRI/CARLITO ARE ALLOWED AS FONT, FONT SIZE 12 PT DEFINED ABOVE. The font is used to ensure equal settings between LaTeX and Word templates.
+% Find the font package here: https://www.ctan.org/tex-archive/fonts/carlito
+\usepackage[sfdefault]{carlito}
+
+% LINE SPACING 1 SUPPORT AND SET SPACE
+\usepackage{setspace}
+\singlespacing
+
+% PAGE MARGIN SUPPORT AND SET PAGE MARGINS 20 MM
+\usepackage[left=20mm, top=20mm, bottom=20mm, right=20mm]{geometry}
+
+% SETTING SPACING FOR SECTION, SUBSECTION AND PARAGRAPH
+\usepackage{titlesec}
+\titleformat*{\section}{\bfseries}
+\titleformat*{\subsection}{\bfseries}
+\titlespacing{\section}{0 cm}{6pt}{0pt}
+\titlespacing{\subsection}{0 cm}{6pt}{0pt}
+\setlength{\parskip}{6pt}
+
+% ALIGNING TEXT TO LEFT
+\raggedright
+
+% SETS PAGE NUMBERS AND HEADER 
+\usepackage{fancyhdr}
+\pagestyle{fancyplain}
+\fancyfoot{}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+\rhead{\fancyplain{}{\thepage}({\pageref{lastpage}}) }
+
+%-----------------------------------------------------
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+$body$
+
+%% Page counter for header
+\label{lastpage}
+
+\end{document}

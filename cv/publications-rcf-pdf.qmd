@@ -1,0 +1,13 @@
+---
+title: "Publications"
+format:
+  pdf:
+    template: rcf-publications-template.tex
+    pdf-engine: pdflatex
+    keep-tex: true
+    toc: false
+    number-sections: false
+---
+
+# Publications {.unnumbered}
+{{< include /generated/publications-full.md >}}

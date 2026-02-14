@@ -17,6 +17,7 @@ vendor
 *.log
 *.synctex*
 cv-rcf-pdf.tex
+publications-rcf-pdf.tex
 generated/
 
 # ignore macos noise
