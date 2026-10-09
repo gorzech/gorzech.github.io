@@ -5,6 +5,10 @@ format:
     toc: false
 ---
 
+::: {.lead}
+{{< include /atoms/profiles/lab-tagline.md >}}
+:::
+
 ## Overview
 
 {{< include /atoms/profiles/research-group.md >}}
