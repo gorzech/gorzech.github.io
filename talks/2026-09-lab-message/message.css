@@ -1,0 +1,15 @@
+/* Roadmap: four boxes, one per pillar. */
+.reveal .pillar {
+  border-top: 6px solid #23b900;
+  padding: 0.3em 0.4em;
+  font-size: 0.6em;
+  min-height: 8.5em;
+  background: rgba(0, 0, 0, 0.03);
+}
+.reveal .pillar .num { font-size: 1.8em; font-weight: 700; color: #23b900; margin-right: 0.2em; }
+.reveal .pillar .tag { font-weight: 700; letter-spacing: 0.05em; }
+.reveal .pillar ul { margin-top: 0.4em; }
+.reveal .impact {
+  background: #23b900; color: #fff; font-weight: 700; text-align: center;
+  padding: 0.35em; margin-top: 0.6em; font-size: 0.7em;
+}

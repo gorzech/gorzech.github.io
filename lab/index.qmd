@@ -11,46 +11,48 @@ format:
 
 ---
 
-## Mission
+## What we do
 
-- Advance mechanics-first autonomy for non-road machinery.
-- Build reliable simulation and digital twin workflows for real-world operations.
-- Deliver practical, safe, and deployable solutions with industry partners.
-- Connect modeling, data, and lifecycle thinking across design and operations.
+{{< include /atoms/profiles/lab-pillars.md >}}
 
 ---
 
-## Research themes
+## What we deliver
 
-- Multibody and hydraulic system modeling
-- Sim-to-real workflows
-- Data-driven surrogate models
-- Human/environment modeling for safety
-- Lifecycle/operations-focused digital twins
+{{< include /atoms/profiles/lab-deliverables.md >}}
 
 ---
 
-## Domains
+## Applications
 
-Logistics, healthcare, forestry, construction, non-road mobile machinery.
+{{< include /atoms/profiles/lab-applications.md >}}
 
 ---
 
-## Projects and partners
+## Academic collaborators
 
-Selected projects and partners are listed on the Projects page.  
+{{< include /atoms/profiles/lab-collaborators.md >}}
+
+Selected projects are listed on the Projects page.
 → *[Projects](/projects.qmd)*
 
 ---
 
-## Open positions
+## Lab presentation
 
-If you are interested in MSc/PhD positions or research collaboration, please reach out.  
+A short introduction to the lab (September 2026).
+→ *[Slides (HTML)](/talks/2026-09-lab-message/)* · *[PDF](/talks/2026-09-lab-message/slides.pdf)*
+
+---
+
+## Contact
+
+We are open to visits, talks, invitations and collaboration with companies.
 Email: grzegorz.orzechowski@lut.fi
 
 ---
 
 ## Events and links
 
-Links to lab-related events are on the Events page.  
+Links to lab-related events are on the Events page.
 → *[Events](/events/index.qmd)*

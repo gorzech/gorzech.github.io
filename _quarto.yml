@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - CNAME
+    - talks/
   pre-render:
     - python3 scripts/gen_publications.py
 
