@@ -6,14 +6,16 @@ title: "Projects"
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-6}
-### VIIMA: Virtual Material Engineering and Fatigue Design
+### VIIMA: Virtual Material Engineering
 Heavy mobile machines are built more and more from high-strength steels, so fatigue decides how long their booms and frames last. Fatigue is usually checked once, at the design stage. VIIMA works towards a real-time simulation of the machine that estimates stresses and fatigue damage while it works, so that the control system can use them.
 
 Our part is the simulation: flexible multibody models of coupled mechanical and hydraulic systems, including sliding booms, and recovery of stresses from these models in real time. Other research groups in the project work on the fatigue assessment and the control. The methods were tested on a forestry crane in the lab.
 
 Business Finland project of LUT and the University of Oulu, 2023 to March 2027, and one of the co-innovation projects of Ponsse's [Ponsse Epec FORWARD'27 ecosystem](https://forward27.ponsse.com/news/ponsse-epec-forward27-ecosystem-webinar-feb-7th-presenting-our-active-co-innovation-projects/). PI: Aki Mikkola; Greg is the project manager at LUT.
 
-Paper: [Workflow for real-time simulation-based fatigue assessment in mobile machinery](https://doi.org/10.1177/16878132261424717) (*Advances in Mechanical Engineering*, 2026)
+Papers: [Workflow for real-time simulation-based fatigue assessment in mobile machinery](https://doi.org/10.1177/16878132261424717) (*Advances in Mechanical Engineering*, 2026) · [Model order reduction of a sliding beam using a global basis](https://doi.org/10.48550/arXiv.2607.11794) (preprint, 2026)
+
+Open data: [Forestry crane dataset for data-driven stress estimation (PATU655Stress)](https://doi.org/10.1016/j.dib.2026.112848) (*Data in Brief*, 2026)
 :::
 :::
 
