@@ -5,7 +5,8 @@ title: "Projects"
 ## Selected projects
 
 ::: {.grid}
-::: {.g-col-12 .g-col-md-6}
+<!-- One card: full width. With two or more cards, give each .g-col-12 .g-col-md-6 -->
+::: {.g-col-12}
 ### VIIMA: Virtual Material Engineering
 Heavy mobile machines are built more and more from high-strength steels, so fatigue decides how long their booms and frames last. Fatigue is usually checked once, at the design stage. VIIMA works towards a real-time simulation of the machine that estimates stresses and fatigue damage while it works, so that the control system can use them.
 
