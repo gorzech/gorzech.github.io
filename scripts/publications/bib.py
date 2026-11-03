@@ -166,6 +166,11 @@ def enrich_entries(entries: list[dict[str, str]]) -> list[dict[str, str]]:
     return enriched
 
 
+def funder_classified(entries: list[dict[str, str]]) -> list[dict[str, str]]:
+    """Entries with a funder section. Unclassified ones (e.g. preprints) are left out."""
+    return [entry for entry in entries if entry.get("funder_section")]
+
+
 def validate_entries(entries: list[dict[str, str]]) -> tuple[list[str], list[str]]:
     errors: list[str] = []
     warnings: list[str] = []

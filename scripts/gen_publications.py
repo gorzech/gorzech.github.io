@@ -5,7 +5,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from publications.bib import enrich_entries, is_selected, parse_entries, validate_entries
+from publications.bib import enrich_entries, funder_classified, is_selected, parse_entries, validate_entries
 from publications.render import format_entry, render_sections, sort_entries
 
 BIB_PATH = Path("publications.bib")
@@ -14,6 +14,8 @@ PUB_FULL_QMD = Path("publications-full.qmd")
 GENERATED_DIR = Path("generated")
 SELECTED_OUT = GENERATED_DIR / "publications-selected.md"
 FULL_OUT = GENERATED_DIR / "publications-full.md"
+# Research Council of Finland (AKA) list: classified works only, so no preprints.
+RCF_OUT = GENERATED_DIR / "publications-rcf.md"
 
 
 def main() -> int:
@@ -51,6 +53,7 @@ def main() -> int:
 
     selected_block = render_sections(selected_entries)
     full_block = render_sections(all_entries)
+    rcf_block = render_sections(funder_classified(all_entries), include_section_codes=True)
 
     GENERATED_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -59,6 +62,9 @@ def main() -> int:
 
     if not FULL_OUT.exists() or FULL_OUT.read_text(encoding="utf-8") != full_block:
         FULL_OUT.write_text(full_block, encoding="utf-8")
+
+    if not RCF_OUT.exists() or RCF_OUT.read_text(encoding="utf-8") != rcf_block:
+        RCF_OUT.write_text(rcf_block, encoding="utf-8")
     return 0
 
 

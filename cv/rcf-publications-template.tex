@@ -36,8 +36,11 @@
     urlcolor=blue,
 }
 
-%% N.B. YOU MAY ALSO ADD YOUR OWN LaTeX PACKAGES HERE. NOTE THAT THE PACKAGES CANNOT BE IN CONFLICT WITH OR OVERRUN THE TEMPLATE SETTINGS SET BY THE RESEARCH COUNCIL OF FINLAND. 
- 
+%% N.B. YOU MAY ALSO ADD YOUR OWN LaTeX PACKAGES HERE. NOTE THAT THE PACKAGES CANNOT BE IN CONFLICT WITH OR OVERRUN THE TEMPLATE SETTINGS SET BY THE RESEARCH COUNCIL OF FINLAND.
+
+% Unnumbered headings (pandoc numbers them unless told otherwise).
+$if(numbersections)$$else$\setcounter{secnumdepth}{-\maxdimen}$endif$
+
 %-----------------------------------------------------
 % ACADEMY SETTINGS: DO NOT ALTER THESE SETTINGS!
 %-----------------------------------------------------

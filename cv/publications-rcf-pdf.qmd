@@ -1,5 +1,7 @@
 ---
 title: "Publications"
+date: today
+date-format: "D MMMM YYYY"
 format:
   pdf:
     template: rcf-publications-template.tex
@@ -7,7 +9,13 @@ format:
     keep-tex: true
     toc: false
     number-sections: false
+    # The generated list uses ### for categories and #### for subcategories;
+    # shift them to \section and \subsection, which the template styles.
+    shift-heading-level-by: -2
 ---
 
-# Publications {.unnumbered}
-{{< include /generated/publications-full.md >}}
+**List of publications**\
+Grzegorz Orzechowski\
+List date: {{< meta date >}}
+
+{{< include /generated/publications-rcf.md >}}

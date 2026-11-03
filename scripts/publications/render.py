@@ -79,7 +79,13 @@ def format_entry(entry: dict[str, str]) -> str:
     fields = entry["fields"]
     authors = format_authors(fields.get("author", ""))
     title = clean_title(fields.get("title", ""))
-    venue = fields.get("journal") or fields.get("booktitle") or fields.get("publisher") or ""
+    venue = (
+        fields.get("journal")
+        or fields.get("booktitle")
+        or fields.get("publisher")
+        or fields.get("school")  # theses
+        or ""
+    )
     year = fields.get("year", "")
     doi = fields.get("doi", "")
     url = fields.get("url", "")

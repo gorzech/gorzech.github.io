@@ -10,7 +10,7 @@ SCRIPTS_DIR = ROOT / "scripts"
 if str(SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPTS_DIR))
 
-from publications.bib import enrich_entries  # noqa: E402
+from publications.bib import enrich_entries, funder_classified  # noqa: E402
 from publications.render import format_authors, format_entry, render_sections, sort_entries  # noqa: E402
 
 
@@ -60,6 +60,18 @@ class TestFormatEntry(unittest.TestCase):
         self.assertIn("\"A Study on MBD.\"", rendered)
         self.assertNotIn("{", rendered)
         self.assertNotIn("}", rendered)
+
+    def test_thesis_shows_school_as_venue(self) -> None:
+        # AKA asks for the publisher; for a thesis that is the university.
+        entry = {
+            "fields": {
+                "author": "Orzechowski, Grzegorz",
+                "title": "Thesis",
+                "school": "Warsaw University of Technology",
+                "year": "2012",
+            }
+        }
+        self.assertIn("*Warsaw University of Technology*.", format_entry(entry))
 
     def test_decodes_latex_accents_in_title(self) -> None:
         entry = {
@@ -116,6 +128,19 @@ funder_section = {B. Non-Refereed Scientific Articles}
         entries[0]["formatted"] = format_entry(entries[0])
         rendered = render_sections(entries, include_section_codes=True)
         self.assertIn("### B. Non-Refereed Scientific Articles", rendered)
+
+
+class TestFunderClassified(unittest.TestCase):
+    def test_leaves_out_unclassified_entries(self) -> None:
+        # The AKA list must not contain manuscripts not accepted for publication,
+        # so preprints (no funder_section, no default for @misc) are dropped.
+        entries = enrich_entries(
+            [
+                {"type": "article", "key": "paper", "body": "title = {Paper},\nyear = {2025}"},
+                {"type": "misc", "key": "preprint", "body": "title = {Preprint},\nyear = {2026}"},
+            ]
+        )
+        self.assertEqual([e["key"] for e in funder_classified(entries)], ["paper"])
 
 
 if __name__ == "__main__":
