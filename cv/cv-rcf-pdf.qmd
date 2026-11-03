@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae"
+# AKA: include only the headings that apply; career breaks and other are optional.
 format:
   pdf:
     template: rcf-pandoc-template.tex
@@ -21,9 +22,6 @@ format:
 # Previous work experience {.unnumbered}
 {{< include /atoms/cv/previous-employment.md >}}
 
-# Career breaks {.unnumbered}
-{{< include /atoms/cv/career-breaks.md >}}
-
 # Research funding and grants {.unnumbered}
 {{< include /atoms/cv/funding.md >}}
 
@@ -44,6 +42,3 @@ format:
 
 # Scientific and societal impact {.unnumbered}
 {{< include /atoms/cv/impact.md >}}
-
-# Other {.unnumbered}
-{{< include /atoms/cv/other.md >}}
