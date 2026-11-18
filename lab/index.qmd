@@ -1,12 +1,21 @@
 ---
-title: "Sustainable Mechatronics Lab"
+title: "SuMec Lab"
+subtitle: "Sustainable Mechatronics Lab, LUT University"
 format:
   html:
     toc: false
 ---
 
+::: {.grid}
+::: {.g-col-12 .g-col-md-7}
 ::: {.lead}
 {{< include /atoms/profiles/lab-tagline.md >}}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-5}
+![](/atoms/assets/logos/sumec-lab-logo.svg){fig-alt="SuMec Lab logo. The letter M is a chain of four rigid links with joints, a multibody system." style="width: 100%; max-width: 320px;"}
+:::
 :::
 
 ## Overview
