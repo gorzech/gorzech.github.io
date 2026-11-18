@@ -13,3 +13,7 @@
   background: #23b900; color: #fff; font-weight: 700; text-align: center;
   padding: 0.35em; margin-top: 0.6em; font-size: 0.7em;
 }
+
+/* SuMec Lab wordmark on the title slide: wider than the theme's 160 px logo slot. */
+.reveal section.layout-title .title-right.title-logos { grid-template-columns: 1fr; }
+.reveal section.layout-title img.title-logo { max-width: 460px; max-height: 200px; }
